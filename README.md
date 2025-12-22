@@ -18,23 +18,13 @@ world-cup-2022-analysis/
 │   ├── raw/
 │   │   ├── Squads.csv
 │   │   └── Outcome.csv
-│   └── cleaned/
-│       └── cleaned_squads.csv   (optional)
 │
 ├── python/
 │   ├── world_cup_analysis.ipynb
-│   └── world_cup_analysis.py
 │
 ├── report/
 │   └── CA2 Data Report & Dataset.pdf
-│
-├── images/
-│   ├── caps_experience.png
-│   ├── age_distribution.png
-│   ├── goals_per_game.png
-│   ├── club_representation.png
-│   └── last_four_comparison.png
-│
+
 └── README.md
 
 Dataset Overview
