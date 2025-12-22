@@ -152,3 +152,5 @@ This project provides a full analytical breakdown of the World Cup 2022 squads, 
 •	Football domain knowledge
 It demonstrates a complete end to end workflow suitable for data analytics portfolios, academic submissions, or football analytics enthusiasts.
 
+Python Analysis Notebook 
+The full Python analysis for this project is available here: 👉 (python/world_cup_analysis.ipynb)
