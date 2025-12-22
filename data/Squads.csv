@@ -1,0 +1,830 @@
+﻿ARG,argentina (ARG),1001,1,GK,Franco Armani,16/10/1986,36,18,0, River Plate,Liga Professional Argentina,Argentina
+ARG,argentina (ARG),1002,2,DF,Juan Foyth,12/01/1998,24,16,0, Villarreal,La Liga,Spain
+ARG,argentina (ARG),1003,3,DF,Nicolás Tagliafico,31/08/1992,30,42,0, Lyon,Ligue 1,France
+ARG,argentina (ARG),1004,4,DF,Gonzalo Montiel,01/01/1997,25,18,0, Sevilla,La Liga,Spain
+ARG,argentina (ARG),1005,5,MF,Leandro Paredes,29/06/1994,28,46,4, Juventus,Serie A,Italy
+ARG,argentina (ARG),1006,6,DF,Germán Pezzella,27/06/1991,31,32,2, Real Betis,La Liga,Spain
+ARG,argentina (ARG),1007,7,MF,Rodrigo De Paul,24/05/1994,28,44,2, Atlético Madrid,La Liga,Spain
+ARG,argentina (ARG),1008,8,MF,Marcos Acuña,28/10/1991,31,43,0, Sevilla,La Liga,Spain
+ARG,argentina (ARG),1009,9,FW,Julián Álvarez,31/01/2000,22,12,3, Manchester City,Premier League,England
+ARG,argentina (ARG),1010,10,FW,Lionel Messi,24/06/1987,35,165,91, Paris Saint-Germain,Ligue 1,France
+ARG,argentina (ARG),1011,11,FW,Ángel Di María,14/02/1988,34,124,27, Juventus,Serie A,Italy
+ARG,argentina (ARG),1012,12,GK,Gerónimo Rulli,20/05/1992,30,4,0, Villarreal,La Liga,Spain
+ARG,argentina (ARG),1013,13,DF,Cristian Romero,27/04/1998,24,12,1, Tottenham Hotspur,Premier League,England
+ARG,argentina (ARG),1014,14,MF,Exequiel Palacios,05/10/1998,24,20,0, Bayer Leverkusen,Bundesliga,Germany
+ARG,argentina (ARG),1015,15,FW,Ángel Correa,09/03/1995,27,22,3, Atlético Madrid,La Liga,Spain
+ARG,argentina (ARG),1016,16,MF,Thiago Almada,26/04/2001,21,1,0, Atlanta United FC,MLS,USA
+ARG,argentina (ARG),1017,17,MF,Papu Gómez,15/02/1988,34,15,3, Sevilla,La Liga,Spain
+ARG,argentina (ARG),1018,18,MF,Guido Rodríguez,12/04/1994,28,26,1, Real Betis,La Liga,Spain
+ARG,argentina (ARG),1019,19,DF,Nicolás Otamendi,12/02/1988,34,93,4, Benfica,Primeira Liga,Portugal
+ARG,argentina (ARG),1020,20,MF,Alexis Mac Allister,24/12/1998,23,8,0, Brighton & Hove Albion,Premier League,England
+ARG,argentina (ARG),1021,21,FW,Paulo Dybala,15/11/1993,29,34,3, Roma,Serie A,Italy
+ARG,argentina (ARG),1022,22,FW,Lautaro Martínez,22/08/1997,25,40,21, Internazionale,Serie A,Italy
+ARG,argentina (ARG),1023,23,GK,Emiliano Martínez,02/09/1992,30,19,0, Aston Villa,Premier League,England
+ARG,argentina (ARG),1024,24,MF,Enzo Fernández,17/01/2001,21,3,0, Benfica,Primeira Liga,Portugal
+ARG,argentina (ARG),1025,25,DF,Lisandro Martínez,18/01/1998,24,10,0, Manchester United,Premier League,England
+ARG,argentina (ARG),1026,26,DF,Nahuel Molina,06/04/1998,24,20,0, Atlético Madrid,La Liga,Spain
+AUS,australia (AUS),1027,1,GK,Mathew Ryan ,08/04/1992,30,75,0, Copenhagen,Superliga,Denmark
+AUS,australia (AUS),1028,2,DF,Miloš Degenek,28/04/1994,28,38,1, Columbus Crew,MLS,USA
+AUS,australia (AUS),1029,3,DF,Nathaniel Atkinson,13/06/1999,23,5,0, Heart of Midlothian,Premiership,Scotland
+AUS,australia (AUS),1030,4,DF,Kye Rowles,24/06/1998,24,3,0, Heart of Midlothian,Premiership,Scotland
+AUS,australia (AUS),1031,5,DF,Fran Karačić,12/05/1996,26,11,1, Brescia,Serie B,Italy
+AUS,australia (AUS),1032,6,FW,Martin Boyle,25/04/1993,29,19,5, Hibernian,Premiership,Scotland
+AUS,australia (AUS),1033,7,FW,Mathew Leckie,04/02/1991,31,73,13, Melbourne City,A League,Australia
+AUS,australia (AUS),1034,8,DF,Bailey Wright,28/07/1992,30,27,2, Sunderland,Championship,England
+AUS,australia (AUS),1035,9,FW,Jamie Maclaren,29/07/1993,29,26,8, Melbourne City,A League,Australia
+AUS,australia (AUS),1036,10,MF,Ajdin Hrustic,05/07/1996,26,20,3, Hellas Verona,Serie A,Italy
+AUS,australia (AUS),1037,11,FW,Awer Mabil,15/09/1995,27,29,8, Cádiz,La Liga,Spain
+AUS,australia (AUS),1038,12,GK,Andrew Redmayne,13/01/1989,33,4,0, Sydney FC,A League,Australia
+AUS,australia (AUS),1039,13,MF,Aaron Mooy,15/09/1990,32,53,7, Celtic,Premiership,Scotland
+AUS,australia (AUS),1040,14,MF,Riley McGree,02/11/1998,24,11,1, Middlesbrough,Championship,England
+AUS,australia (AUS),1041,15,FW,Mitchell Duke,18/01/1991,31,21,8, Fagiano Okayama,J2 League,Japan
+AUS,australia (AUS),1042,16,DF,Aziz Behich,16/12/1990,31,53,2, Dundee United,Premiership,Scotland
+AUS,australia (AUS),1043,17,MF,Cameron Devlin,07/06/1998,24,1,0, Heart of Midlothian,Premiership,Scotland
+AUS,australia (AUS),1044,18,GK,Danny Vukovic,27/03/1985,37,4,0, Central Coast Mariners,A League,Australia
+AUS,australia (AUS),1045,19,DF,Harry Souttar,22/10/1998,24,10,6, Stoke City,Championship,England
+AUS,australia (AUS),1046,20,DF,Thomas Deng,20/03/1997,25,2,0, Albirex Niigata,J2 League,Japan
+AUS,australia (AUS),1047,21,FW,Garang Kuol,15/09/2004,18,1,0, Central Coast Mariners,A League,Australia
+AUS,australia (AUS),1048,22,MF,Jackson Irvine,07/03/1993,29,49,7, FC St. Pauli,2. Bundesliga,Germany
+AUS,australia (AUS),1049,23,FW,Craig Goodwin,16/12/1991,30,10,1, Adelaide United,A League,Australia
+AUS,australia (AUS),1050,24,DF,Joel King,30/10/2000,22,4,0, OB,Superliga,Denmark
+AUS,australia (AUS),1051,25,FW,Jason Cummings,01/08/1995,27,1,1, Central Coast Mariners,A League,Australia
+AUS,australia (AUS),1052,26,MF,Keanu Baccus,07/06/1998,24,1,0, St Mirren,Premiership,Scotland
+BEL,belgium (BEL),1053,1,GK,Thibaut Courtois,11/05/1992,30,97,0, Real Madrid,La Liga,Spain
+BEL,belgium (BEL),1054,2,DF,Toby Alderweireld,02/03/1989,33,124,5, Antwerp,First Division A,Belgium
+BEL,belgium (BEL),1055,3,DF,Arthur Theate,25/05/2000,22,4,0, Rennes,Ligue 1,France
+BEL,belgium (BEL),1056,4,DF,Wout Faes,03/04/1998,24,1,0, Leicester City,Premier League,England
+BEL,belgium (BEL),1057,5,DF,Jan Vertonghen,24/04/1987,35,142,9, Anderlecht,First Division A,Belgium
+BEL,belgium (BEL),1058,6,MF,Axel Witsel,12/01/1989,33,127,12, Atlético Madrid,La Liga,Spain
+BEL,belgium (BEL),1059,7,MF,Kevin De Bruyne,28/06/1991,31,94,25, Manchester City,Premier League,England
+BEL,belgium (BEL),1060,8,MF,Youri Tielemans,07/05/1997,25,55,5, Leicester City,Premier League,England
+BEL,belgium (BEL),1061,9,FW,Romelu Lukaku,13/05/1993,29,102,68, Internazionale,Serie A,Italy
+BEL,belgium (BEL),1062,10,FW,Eden Hazard ,07/01/1991,31,123,33, Real Madrid,La Liga,Spain
+BEL,belgium (BEL),1063,11,FW,Yannick Carrasco,04/09/1993,29,60,8, Atlético Madrid,La Liga,Spain
+BEL,belgium (BEL),1064,12,GK,Simon Mignolet,06/03/1988,34,35,0, Club Brugge,First Division A,Belgium
+BEL,belgium (BEL),1065,13,GK,Koen Casteels,25/06/1992,30,4,0, VfL Wolfsburg,Bundesliga,Germany
+BEL,belgium (BEL),1066,14,FW,Dries Mertens,06/05/1987,35,107,21, Galatasaray,Super Lig,Turkey
+BEL,belgium (BEL),1067,15,MF,Thomas Meunier,12/09/1991,31,59,8, Borussia Dortmund,Bundesliga,Germany
+BEL,belgium (BEL),1068,16,MF,Thorgan Hazard,29/03/1993,29,45,9, Borussia Dortmund,Bundesliga,Germany
+BEL,belgium (BEL),1069,17,FW,Leandro Trossard,04/12/1994,27,21,5, Brighton & Hove Albion,Premier League,England
+BEL,belgium (BEL),1070,18,MF,Amadou Onana,16/08/2001,21,2,0, Everton,Premier League,England
+BEL,belgium (BEL),1071,19,DF,Leander Dendoncker,15/04/1995,27,29,1, Aston Villa,Premier League,England
+BEL,belgium (BEL),1072,20,MF,Hans Vanaken,24/08/1992,30,23,5, Club Brugge,First Division A,Belgium
+BEL,belgium (BEL),1073,21,MF,Timothy Castagne,05/12/1995,26,26,2, Leicester City,Premier League,England
+BEL,belgium (BEL),1074,22,FW,Charles De Ketelaere,10/03/2001,21,10,1, Milan,Serie A,Italy
+BEL,belgium (BEL),1075,23,FW,Michy Batshuayi,02/10/1993,29,48,26, Fenerbahçe,Super Lig,Turkey
+BEL,belgium (BEL),1076,24,FW,Loïs Openda,16/02/2000,22,5,2, Lens,Ligue 1,France
+BEL,belgium (BEL),1077,25,FW,Jérémy Doku,27/05/2002,20,11,2, Rennes,Ligue 1,France
+BEL,belgium (BEL),1078,26,DF,Zeno Debast,24/10/2003,19,3,0, Anderlecht,First Division A,Belgium
+BRA,brasil (BRA),1079,1,GK,Alisson,02/10/1992,30,57,0, Liverpool,Premier League,England
+BRA,brasil (BRA),1080,2,DF,Danilo,15/07/1991,31,46,1, Juventus,Serie A,Italy
+BRA,brasil (BRA),1081,3,DF,Thiago Silva ,22/09/1984,38,109,7, Chelsea,Premier League,England
+BRA,brasil (BRA),1082,4,DF,Marquinhos,14/05/1994,28,71,5, Paris Saint-Germain,Ligue 1,France
+BRA,brasil (BRA),1083,5,MF,Casemiro,23/02/1992,30,65,5, Manchester United,Premier League,England
+BRA,brasil (BRA),1084,6,DF,Alex Sandro,26/01/1991,31,37,2, Juventus,Serie A,Italy
+BRA,brasil (BRA),1085,7,MF,Lucas Paquetá,27/08/1997,25,35,7, West Ham United,Premier League,England
+BRA,brasil (BRA),1086,8,MF,Fred,05/03/1993,29,28,0, Manchester United,Premier League,England
+BRA,brasil (BRA),1087,9,FW,Richarlison,10/05/1997,25,38,17, Tottenham Hotspur,Premier League,England
+BRA,brasil (BRA),1088,10,FW,Neymar,05/02/1992,30,121,75, Paris Saint-Germain,Ligue 1,France
+BRA,brasil (BRA),1089,11,FW,Raphinha,14/12/1996,25,11,5, Barcelona,La Liga,Spain
+BRA,brasil (BRA),1090,12,GK,Weverton,13/12/1987,34,8,0, Palmeiras,Brasilian Serie A,Brasil
+BRA,brasil (BRA),1091,13,DF,Dani Alves,06/05/1983,39,124,8, UNAM,Liga MX,Mexico
+BRA,brasil (BRA),1092,14,DF,Éder Militão,18/01/1998,24,23,1, Real Madrid,La Liga,Spain
+BRA,brasil (BRA),1093,15,MF,Fabinho,23/10/1993,29,28,0, Liverpool,Premier League,England
+BRA,brasil (BRA),1094,16,DF,Alex Telles,15/12/1992,29,8,0, Sevilla,La Liga,Spain
+BRA,brasil (BRA),1095,17,MF,Bruno Guimarães,16/11/1997,25,8,1, Newcastle United,Premier League,England
+BRA,brasil (BRA),1096,18,FW,Gabriel Jesus,03/04/1997,25,56,19, Arsenal,Premier League,England
+BRA,brasil (BRA),1097,19,FW,Antony,24/02/2000,22,11,2, Manchester United,Premier League,England
+BRA,brasil (BRA),1098,20,FW,Vinícius Júnior,12/07/2000,22,16,1, Real Madrid,La Liga,Spain
+BRA,brasil (BRA),1099,21,FW,Rodrygo,09/01/2001,21,7,1, Real Madrid,La Liga,Spain
+BRA,brasil (BRA),1100,22,MF,Éverton Ribeiro,10/04/1989,33,21,3, Flamengo,Brasilian Serie A,Brasil
+BRA,brasil (BRA),1101,23,GK,Ederson,17/08/1993,29,18,0, Manchester City,Premier League,England
+BRA,brasil (BRA),1102,24,DF,Bremer,18/03/1997,25,1,0, Juventus,Serie A,Italy
+BRA,brasil (BRA),1103,25,FW,Pedro,20/06/1997,25,2,1, Flamengo,Brasilian Serie A,Brasil
+BRA,brasil (BRA),1104,26,FW,Gabriel Martinelli,18/06/2001,21,3,0, Arsenal,Premier League,England
+CAN,canada (CAN),1131,1,GK,Dayne St. Clair,09/05/1997,25,2,0, Minnesota United FC,MLS,USA
+CAN,canada (CAN),1132,2,DF,Alistair Johnston,08/10/1998,24,30,1, CF Montréal,MLS,USA
+CAN,canada (CAN),1133,3,DF,Sam Adekugbe,16/01/1995,27,34,1, Hatayspor,Super Lig,Turkey
+CAN,canada (CAN),1134,4,DF,Kamal Miller,16/05/1997,25,29,0, CF Montréal,MLS,USA
+CAN,canada (CAN),1135,5,DF,Steven Vitória,11/01/1987,35,35,4, Chaves,Primeira Liga,Portugal
+CAN,canada (CAN),1136,6,MF,Samuel Piette,12/11/1994,28,66,0, CF Montréal,MLS,USA
+CAN,canada (CAN),1137,7,MF,Stephen Eustáquio,21/12/1996,25,26,3, Porto,Primeira Liga,Portugal
+CAN,canada (CAN),1138,8,MF,Liam Fraser,13/02/1998,24,15,0, Deinze,Challenger Pro League,Belgium
+CAN,canada (CAN),1139,9,FW,Lucas Cavallini,28/12/1992,29,34,18, Vancouver Whitecaps FC,MLS,USA
+CAN,canada (CAN),1140,10,MF,Junior Hoilett,05/06/1990,32,50,14, Reading,Championship,England
+CAN,canada (CAN),1141,11,FW,Tajon Buchanan,08/02/1999,23,26,4, Club Brugge,First Division A,Belgium
+CAN,canada (CAN),1142,12,FW,Iké Ugbo,21/09/1998,24,8,0, Troyes,Ligue 1,France
+CAN,canada (CAN),1143,13,MF,Atiba Hutchinson ,08/02/1983,39,98,9, Beşiktaş,Super Lig,Turkey
+CAN,canada (CAN),1144,14,MF,Mark-Anthony Kaye,02/12/1994,27,38,2, Toronto FC,MLS,USA
+CAN,canada (CAN),1145,15,MF,Ismaël Koné,16/06/2002,20,6,1, CF Montréal,MLS,USA
+CAN,canada (CAN),1146,16,GK,James Pantemis,21/02/1997,25,0,0, CF Montréal,MLS,USA
+CAN,canada (CAN),1147,17,FW,Cyle Larin,17/04/1995,27,55,25, Club Brugge,First Division A,Belgium
+CAN,canada (CAN),1148,18,GK,Milan Borjan,23/10/1987,35,68,0, Red Star Belgrade,Super Liga - Serbia,Serbia
+CAN,canada (CAN),1149,19,FW,Alphonso Davies,02/11/2000,22,34,12, Bayern Munich,Bundesliga,Germany
+CAN,canada (CAN),1150,20,FW,Jonathan David,14/01/2000,22,35,22, Lille,Ligue 1,France
+CAN,canada (CAN),1151,21,MF,Jonathan Osorio,12/06/1992,30,57,7, Toronto FC,MLS,USA
+CAN,canada (CAN),1152,22,DF,Richie Laryea,07/01/1995,27,34,1, Toronto FC,MLS,USA
+CAN,canada (CAN),1153,23,MF,Liam Millar,27/09/1999,23,16,0, Basel,Super League,Switzerland
+CAN,canada (CAN),1154,24,MF,David Wotherspoon,16/01/1990,32,10,1, St Johnstone,Premiership,Scotland
+CAN,canada (CAN),1155,25,DF,Derek Cornelius,25/11/1997,24,14,0, Panetolikos,Super League 1,Greece
+CAN,canada (CAN),1156,26,DF,Joel Waterman,24/01/1996,26,2,0, CF Montréal,MLS,USA
+CMR,cameroon (CMR),1105,1,GK,Simon Ngapandouetnbu,12/04/2003,19,0,0, Marseille,Ligue 1,France
+CMR,cameroon (CMR),1106,2,DF,Jerome Ngom Mbekeli,30/09/1998,24,2,0, Colombe Sportive,Elite One,Cameroon
+CMR,cameroon (CMR),1107,3,DF,Nicolas Nkoulou,27/03/1990,32,78,2, Aris,Super League 1,Greece
+CMR,cameroon (CMR),1108,4,DF,Christopher Wooh,18/09/2001,21,3,0, Rennes,Ligue 1,France
+CMR,cameroon (CMR),1109,5,MF,Gaël Ondoua,04/11/1995,27,4,0, Hannover 96,2. Bundesliga,Germany
+CMR,cameroon (CMR),1110,6,FW,Moumi Ngamaleu,09/07/1994,28,42,4, Dynamo Moscow,Premier League - Russia,Russia
+CMR,cameroon (CMR),1111,7,MF,Georges-Kévin Nkoudou,13/02/1995,27,2,0, Beşiktaş,Super Lig,Turkey
+CMR,cameroon (CMR),1112,8,MF,André-Frank Zambo Anguissa,16/11/1995,27,43,5, Napoli,Serie A,Italy
+CMR,cameroon (CMR),1113,9,FW,Jean-Pierre Nsame,01/05/1993,29,4,0, Young Boys,Super League,Switzerland
+CMR,cameroon (CMR),1114,10,FW,Vincent Aboubakar ,22/01/1992,30,91,33, Al-Nassr,Saudi Division 1,Saudi Arabia
+CMR,cameroon (CMR),1115,11,FW,Christian Bassogog,18/10/1995,27,43,7, Shanghai Shenhua,CSL,China
+CMR,cameroon (CMR),1116,12,FW,Karl Toko Ekambi,14/09/1992,30,51,12, Lyon,Ligue 1,France
+CMR,cameroon (CMR),1117,13,FW,Eric Maxim Choupo-Moting,23/03/1989,33,69,19, Bayern Munich,Bundesliga,Germany
+CMR,cameroon (CMR),1118,14,MF,Samuel Gouet,14/12/1997,24,22,0, Mechelen,First Division A,Belgium
+CMR,cameroon (CMR),1119,15,MF,Pierre Kunde,26/07/1995,27,32,1, Olympiacos,Super League 1,Greece
+CMR,cameroon (CMR),1120,16,GK,Devis Epassy,02/02/1993,29,5,0, Abha,Saudi Division 1,Saudi Arabia
+CMR,cameroon (CMR),1121,17,DF,Olivier Mbaizo,15/08/1997,25,11,0, Philadelphia Union,MLS,USA
+CMR,cameroon (CMR),1122,18,MF,Martin Hongla,16/03/1998,24,19,0, Hellas Verona,Serie A,Italy
+CMR,cameroon (CMR),1123,19,DF,Collins Fai,13/08/1992,30,52,0, Al-Tai,Saudi Division 1,Saudi Arabia
+CMR,cameroon (CMR),1124,20,FW,Bryan Mbeumo,07/08/1999,23,3,0, Brentford,Premier League,England
+CMR,cameroon (CMR),1125,21,DF,Jean-Charles Castelletto,26/01/1995,27,14,0, Nantes,Ligue 1,France
+CMR,cameroon (CMR),1126,22,MF,Olivier Ntcham,09/02/1996,26,3,0, Swansea City,Championship,England
+CMR,cameroon (CMR),1127,23,GK,André Onana,02/04/1996,26,33,0, Internazionale,Serie A,Italy
+CMR,cameroon (CMR),1128,24,DF,Enzo Ebosse,11/03/1999,23,2,0, Udinese,Serie A,Italy
+CMR,cameroon (CMR),1129,25,DF,Nouhou Tolo,23/06/1997,25,18,0, Seattle Sounders FC,MLS,USA
+CMR,cameroon (CMR),1130,26,MF,Souaibou Marou,03/12/2000,21,3,1, Coton Sport,Elite One,Cameroon
+CRC,costa rica (CRC),1157,1,GK,Keylor Navas,15/12/1986,35,107,0, Paris Saint-Germain,Ligue 1,France
+CRC,costa rica (CRC),1158,2,MF,Daniel Chacón,11/04/2001,21,8,0, Cartaginés,Primera Division,Costa Rica
+CRC,costa rica (CRC),1159,3,DF,Juan Pablo Vargas,06/06/1995,27,12,1, Millonarios,Primera A,Colombia
+CRC,costa rica (CRC),1160,4,DF,Keysher Fuller,12/07/1994,28,31,2, Herediano,Primera Division,Costa Rica
+CRC,costa rica (CRC),1161,5,MF,Celso Borges,27/05/1988,34,155,27, Alajuelense,Primera Division,Costa Rica
+CRC,costa rica (CRC),1162,6,DF,Óscar Duarte,03/06/1989,33,71,4, Al-Wehda,Saudi Division 1,Saudi Arabia
+CRC,costa rica (CRC),1163,7,FW,Anthony Contreras,29/01/2000,22,9,2, Herediano,Primera Division,Costa Rica
+CRC,costa rica (CRC),1164,8,DF,Bryan Oviedo,18/02/1990,32,76,2, Real Salt Lake,MLS,USA
+CRC,costa rica (CRC),1165,9,MF,Jewison Bennette,15/06/2004,18,7,2, Sunderland,Championship,England
+CRC,costa rica (CRC),1166,10,MF,Bryan Ruiz ,18/08/1985,37,146,29, Alajuelense,Primera Division,Costa Rica
+CRC,costa rica (CRC),1167,11,FW,Johan Venegas,27/11/1988,33,82,11, Alajuelense,Primera Division,Costa Rica
+CRC,costa rica (CRC),1168,12,FW,Joel Campbell,26/06/1992,30,119,25, León,Liga MX,Mexico
+CRC,costa rica (CRC),1169,13,MF,Gerson Torres,28/08/1997,25,13,1, Herediano,Primera Division,Costa Rica
+CRC,costa rica (CRC),1170,14,MF,Youstin Salas,17/06/1996,26,4,0, Saprissa,Primera Division,Costa Rica
+CRC,costa rica (CRC),1171,15,DF,Francisco Calvo,08/07/1992,30,75,8, Konyaspor,Super Lig,Turkey
+CRC,costa rica (CRC),1172,16,DF,Carlos Martínez,30/03/1999,23,7,0, San Carlos,Primera Division,Costa Rica
+CRC,costa rica (CRC),1173,17,MF,Yeltsin Tejeda,17/03/1992,30,73,0, Herediano,Primera Division,Costa Rica
+CRC,costa rica (CRC),1174,18,GK,Esteban Alvarado,28/04/1989,33,25,0, Herediano,Primera Division,Costa Rica
+CRC,costa rica (CRC),1175,19,DF,Kendall Waston,01/01/1988,34,63,9, Saprissa,Primera Division,Costa Rica
+CRC,costa rica (CRC),1176,20,MF,Brandon Aguilera,28/06/2003,19,4,0, Guanacasteca,Primera Division,Costa Rica
+CRC,costa rica (CRC),1177,21,MF,Douglas López,21/09/1998,24,3,0, Herediano,Primera Division,Costa Rica
+CRC,costa rica (CRC),1178,22,DF,Rónald Matarrita,09/07/1994,28,52,3, FC Cincinnati,MLS,USA
+CRC,costa rica (CRC),1179,23,GK,Patrick Sequeira,01/03/1999,23,2,0, Lugo,Liga MX,Mexico
+CRC,costa rica (CRC),1180,24,MF,Roan Wilson,01/05/2002,20,3,0, Municipal Grecia,Primera Division,Costa Rica
+CRC,costa rica (CRC),1181,25,MF,Anthony Hernández,11/10/2001,21,3,1, Puntarenas,Primera Division,Costa Rica
+CRC,costa rica (CRC),1182,26,MF,Álvaro Zamora,09/03/2002,20,3,0, Saprissa,Primera Division,Costa Rica
+CRO,croatia (CRO),1183,1,GK,Dominik Livaković,09/01/1995,27,34,0, Dinamo Zagreb,HNL,Croatia
+CRO,croatia (CRO),1184,2,DF,Josip Stanišić,02/04/2000,22,7,0, Bayern Munich,Bundesliga,Germany
+CRO,croatia (CRO),1185,3,DF,Borna Barišić,10/11/1992,30,28,1, Rangers,Premiership,Scotland
+CRO,croatia (CRO),1186,4,FW,Ivan Perišić,02/02/1989,33,116,32, Tottenham Hotspur,Premier League,England
+CRO,croatia (CRO),1187,5,DF,Martin Erlić,24/01/1998,24,4,0, Sassuolo,Serie A,Italy
+CRO,croatia (CRO),1188,6,DF,Dejan Lovren,05/07/1989,33,72,5, Zenit Saint Petersburg,Premier League - Russia,Russia
+CRO,croatia (CRO),1189,7,MF,Lovro Majer,17/01/1998,24,11,3, Rennes,Ligue 1,France
+CRO,croatia (CRO),1190,8,MF,Mateo Kovačić,06/05/1994,28,84,3, Chelsea,Premier League,England
+CRO,croatia (CRO),1191,9,FW,Andrej Kramarić,19/06/1991,31,74,20, 1899 Hoffenheim,Bundesliga,Germany
+CRO,croatia (CRO),1192,10,MF,Luka Modrić ,09/09/1985,37,155,23, Real Madrid,La Liga,Spain
+CRO,croatia (CRO),1193,11,MF,Marcelo Brozović,16/11/1992,30,77,7, Internazionale,Serie A,Italy
+CRO,croatia (CRO),1194,12,GK,Ivo Grbić,18/01/1996,26,2,0, Atlético Madrid,La Liga,Spain
+CRO,croatia (CRO),1195,13,MF,Nikola Vlašić,04/10/1997,25,42,7, Torino,Serie A,Italy
+CRO,croatia (CRO),1196,14,FW,Marko Livaja,26/08/1993,29,14,3, Hajduk Split,HNL,Croatia
+CRO,croatia (CRO),1197,15,MF,Mario Pašalić,09/02/1995,27,43,7, Atalanta,Serie A,Italy
+CRO,croatia (CRO),1198,16,FW,Bruno Petković,16/09/1994,28,23,6, Dinamo Zagreb,HNL,Croatia
+CRO,croatia (CRO),1199,17,FW,Ante Budimir,22/07/1991,31,15,1, Osasuna,La Liga,Spain
+CRO,croatia (CRO),1200,18,FW,Mislav Oršić,29/12/1992,29,21,1, Dinamo Zagreb,HNL,Croatia
+CRO,croatia (CRO),1201,19,DF,Borna Sosa,21/01/1998,24,8,1, VfB Stuttgart,Bundesliga,Germany
+CRO,croatia (CRO),1202,20,DF,Joško Gvardiol,23/01/2002,20,12,1, RB Leipzig,Bundesliga,Germany
+CRO,croatia (CRO),1203,21,DF,Domagoj Vida,29/04/1989,33,100,4, AEK Athens,Super League 1,Greece
+CRO,croatia (CRO),1204,22,DF,Josip Juranović,16/08/1995,27,21,0, Celtic,Premiership,Scotland
+CRO,croatia (CRO),1205,23,GK,Ivica Ivušić,01/02/1995,27,5,0, Osijek,HNL,Croatia
+CRO,croatia (CRO),1206,24,DF,Josip Šutalo,28/02/2000,22,3,0, Dinamo Zagreb,HNL,Croatia
+CRO,croatia (CRO),1207,25,MF,Luka Sučić,08/09/2002,20,4,0, Red Bull Salzburg,Bundesliga - Austria,Austria
+CRO,croatia (CRO),1208,26,MF,Kristijan Jakić,14/05/1997,25,4,0, Eintracht Frankfurt,Bundesliga,Germany
+DEN,denmark (DEN),1209,1,GK,Kasper Schmeichel,05/11/1986,36,86,0, Nice,Ligue 1,France
+DEN,denmark (DEN),1210,2,DF,Joachim Andersen,31/05/1996,26,19,0, Crystal Palace,Premier League,England
+DEN,denmark (DEN),1211,3,DF,Victor Nelsson,14/10/1998,24,7,0, Galatasaray,Super Lig,Turkey
+DEN,denmark (DEN),1212,4,DF,Simon Kjær ,26/03/1989,33,121,5, Milan,Serie A,Italy
+DEN,denmark (DEN),1213,5,DF,Joakim Mæhle,20/05/1997,25,31,9, Atalanta,Serie A,Italy
+DEN,denmark (DEN),1214,6,DF,Andreas Christensen,10/04/1996,26,58,2, Barcelona,La Liga,Spain
+DEN,denmark (DEN),1215,7,MF,Mathias Jensen,01/01/1996,26,20,1, Brentford,Premier League,England
+DEN,denmark (DEN),1216,8,MF,Thomas Delaney,03/09/1991,31,71,7, Sevilla,La Liga,Spain
+DEN,denmark (DEN),1217,9,FW,Martin Braithwaite,05/06/1991,31,62,10, Espanyol,La Liga,Spain
+DEN,denmark (DEN),1218,10,MF,Christian Eriksen,14/02/1992,30,117,39, Manchester United,Premier League,England
+DEN,denmark (DEN),1219,11,MF,Andreas Skov Olsen,29/12/1999,22,23,8, Club Brugge,First Division A,Belgium
+DEN,denmark (DEN),1220,12,FW,Kasper Dolberg,06/10/1997,25,37,11, Sevilla,La Liga,Spain
+DEN,denmark (DEN),1221,13,DF,Rasmus Kristensen,11/07/1997,25,10,0, Leeds United,Premier League,England
+DEN,denmark (DEN),1222,14,MF,Mikkel Damsgaard,03/07/2000,22,18,4, Brentford,Premier League,England
+DEN,denmark (DEN),1223,15,MF,Christian Nørgaard,10/03/1994,28,17,1, Brentford,Premier League,England
+DEN,denmark (DEN),1224,16,GK,Oliver Christensen,22/03/1999,23,1,0, Hertha BSC,Bundesliga,Germany
+DEN,denmark (DEN),1225,17,DF,Jens Stryger Larsen,21/02/1991,31,49,3, Trabzonspor,Super Lig,Turkey
+DEN,denmark (DEN),1226,18,DF,Daniel Wass,31/05/1989,33,44,1, Brøndby,Superliga,Denmark
+DEN,denmark (DEN),1227,19,FW,Jonas Wind,07/02/1999,23,15,5, VfL Wolfsburg,Bundesliga,Germany
+DEN,denmark (DEN),1228,20,FW,Yussuf Poulsen,15/06/1994,28,68,11, RB Leipzig,Bundesliga,Germany
+DEN,denmark (DEN),1229,21,FW,Andreas Cornelius,16/03/1993,29,41,9, Copenhagen,Superliga,Denmark
+DEN,denmark (DEN),1230,22,GK,Frederik Rønnow,04/08/1992,30,8,0, Union Berlin,Bundesliga,Germany
+DEN,denmark (DEN),1231,23,MF,Pierre-Emile Højbjerg,05/08/1995,27,60,5, Tottenham Hotspur,Premier League,England
+DEN,denmark (DEN),1232,24,MF,Robert Skov,20/05/1996,26,11,5, 1899 Hoffenheim,Bundesliga,Germany
+DEN,denmark (DEN),1233,25,MF,Jesper Lindstrøm,29/02/2000,22,6,1, Eintracht Frankfurt,Bundesliga,Germany
+DEN,denmark (DEN),1234,26,DF,Alexander Bah,09/12/1997,24,4,1, Benfica,Primeira Liga,Portugal
+ECU,ecuador (ECU),1235,1,GK,Hernán Galíndez,30/03/1987,35,12,0, Aucas,Liga Pro,Ecuador
+ECU,ecuador (ECU),1236,2,DF,Félix Torres,11/01/1997,25,17,2, Santos Laguna,Liga MX,Mexico
+ECU,ecuador (ECU),1237,3,DF,Piero Hincapié,09/01/2002,20,21,1, Bayer Leverkusen,Bundesliga,Germany
+ECU,ecuador (ECU),1238,4,DF,Robert Arboleda,22/10/1991,31,33,2, São Paulo,Brasilian Serie A,Brasil
+ECU,ecuador (ECU),1239,5,MF,José Cifuentes,12/03/1999,23,11,0, Los Angeles FC,MLS,USA
+ECU,ecuador (ECU),1240,6,DF,William Pacho,16/10/2001,21,0,0, Antwerp,First Division A,Belgium
+ECU,ecuador (ECU),1241,7,DF,Pervis Estupiñán,21/01/1998,24,28,3, Brighton & Hove Albion,Premier League,England
+ECU,ecuador (ECU),1242,8,MF,Carlos Gruezo,19/04/1995,27,46,1, FC Augsburg,Bundesliga,Germany
+ECU,ecuador (ECU),1243,9,MF,Ayrton Preciado,17/07/1994,28,27,3, Santos Laguna,Liga MX,Mexico
+ECU,ecuador (ECU),1244,10,MF,Romario Ibarra,24/09/1994,28,25,3, Pachuca,Liga MX,Mexico
+ECU,ecuador (ECU),1245,11,FW,Michael Estrada,07/04/1996,26,36,8, Cruz Azul,Liga MX,Mexico
+ECU,ecuador (ECU),1246,12,GK,Moisés Ramírez,09/09/2000,22,2,0, Independiente del Valle,Liga Pro,Ecuador
+ECU,ecuador (ECU),1247,13,FW,Enner Valencia,04/11/1989,33,74,35, Fenerbahçe,Super Lig,Turkey
+ECU,ecuador (ECU),1248,14,DF,Xavier Arreaga,28/09/1994,28,18,1, Seattle Sounders FC,MLS,USA
+ECU,ecuador (ECU),1249,15,MF,Ángel Mena,21/01/1988,34,46,7, León,Liga MX,Mexico
+ECU,ecuador (ECU),1250,16,MF,Jeremy Sarmiento,16/06/2002,20,9,0, Brighton & Hove Albion,Premier League,England
+ECU,ecuador (ECU),1251,17,DF,Ángelo Preciado,18/02/1998,24,24,0, Genk,First Division A,Belgium
+ECU,ecuador (ECU),1252,18,DF,Diego Palacios,12/07/1999,23,12,0, Los Angeles FC,MLS,USA
+ECU,ecuador (ECU),1253,19,MF,Gonzalo Plata,01/11/2000,22,30,5, Valladolid,La Liga,Spain
+ECU,ecuador (ECU),1254,20,MF,Jhegson Méndez,26/04/1997,25,32,0, Los Angeles FC,MLS,USA
+ECU,ecuador (ECU),1255,21,MF,Alan Franco,21/08/1998,24,25,1, Talleres,Liga Professional Argentina,Argentina
+ECU,ecuador (ECU),1256,22,GK,Alexander Domínguez,05/06/1987,35,68,0, LDU Quito,Liga Pro,Ecuador
+ECU,ecuador (ECU),1257,23,MF,Moisés Caicedo,02/11/2001,21,25,2, Brighton & Hove Albion,Premier League,England
+ECU,ecuador (ECU),1258,24,FW,Djorkaeff Reasco,18/01/1999,23,4,0, Newell's Old Boys,Liga Professional Argentina,Argentina
+ECU,ecuador (ECU),1259,25,DF,Jackson Porozo,04/08/2000,22,5,0, Troyes,Ligue 1,France
+ECU,ecuador (ECU),1260,26,FW,Kevin Rodríguez,04/03/2000,22,1,0, Imbabura,Liga Pro Serie B,Ecuador
+ENG,england (ENG),1261,1,GK,Jordan Pickford,07/03/1994,28,45,0, Everton,Premier League,England
+ENG,england (ENG),1262,2,DF,Kyle Walker,28/05/1990,32,70,0, Manchester City,Premier League,England
+ENG,england (ENG),1263,3,DF,Luke Shaw,12/07/1995,27,23,3, Manchester United,Premier League,England
+ENG,england (ENG),1264,4,MF,Declan Rice,14/01/1999,23,34,2, West Ham United,Premier League,England
+ENG,england (ENG),1265,5,DF,John Stones,28/05/1994,28,59,3, Manchester City,Premier League,England
+ENG,england (ENG),1266,6,DF,Harry Maguire,05/03/1993,29,48,7, Manchester United,Premier League,England
+ENG,england (ENG),1267,7,FW,Jack Grealish,10/09/1995,27,24,1, Manchester City,Premier League,England
+ENG,england (ENG),1268,8,MF,Jordan Henderson,17/06/1990,32,70,2, Liverpool,Premier League,England
+ENG,england (ENG),1269,9,FW,Harry Kane ,28/07/1993,29,75,51, Tottenham Hotspur,Premier League,England
+ENG,england (ENG),1270,10,FW,Raheem Sterling,08/12/1994,27,79,19, Chelsea,Premier League,England
+ENG,england (ENG),1271,11,FW,Marcus Rashford,31/10/1997,25,46,12, Manchester United,Premier League,England
+ENG,england (ENG),1272,12,DF,Kieran Trippier,19/09/1990,32,37,1, Newcastle United,Premier League,England
+ENG,england (ENG),1273,13,GK,Nick Pope,19/04/1992,30,10,0, Newcastle United,Premier League,England
+ENG,england (ENG),1274,14,MF,Kalvin Phillips,02/12/1995,26,23,0, Manchester City,Premier League,England
+ENG,england (ENG),1275,15,DF,Eric Dier,15/01/1994,28,47,3, Tottenham Hotspur,Premier League,England
+ENG,england (ENG),1276,16,DF,Conor Coady,25/02/1993,29,10,1, Everton,Premier League,England
+ENG,england (ENG),1277,17,FW,Bukayo Saka,05/09/2001,21,20,4, Arsenal,Premier League,England
+ENG,england (ENG),1278,18,DF,Trent Alexander-Arnold,07/10/1998,24,17,1, Liverpool,Premier League,England
+ENG,england (ENG),1279,19,MF,Mason Mount,10/01/1999,23,32,5, Chelsea,Premier League,England
+ENG,england (ENG),1280,20,MF,Phil Foden,28/05/2000,22,18,2, Manchester City,Premier League,England
+ENG,england (ENG),1281,21,DF,Ben White,08/10/1997,25,4,0, Arsenal,Premier League,England
+ENG,england (ENG),1282,22,MF,Jude Bellingham,29/06/2003,19,17,0, Borussia Dortmund,Bundesliga,Germany
+ENG,england (ENG),1283,23,GK,Aaron Ramsdale,14/05/1998,24,3,0, Arsenal,Premier League,England
+ENG,england (ENG),1284,24,FW,Callum Wilson,27/02/1992,30,4,1, Newcastle United,Premier League,England
+ENG,england (ENG),1285,25,MF,James Maddison,23/11/1996,25,1,0, Leicester City,Premier League,England
+ENG,england (ENG),1286,26,MF,Conor Gallagher,06/02/2000,22,4,0, Chelsea,Premier League,England
+ESP,spain (ESP),1675,1,GK,Robert Sánchez,18/11/1997,25,2,0, Brighton & Hove Albion,Premier League,England
+ESP,spain (ESP),1676,2,DF,César Azpilicueta,28/08/1989,33,42,1, Chelsea,Premier League,England
+ESP,spain (ESP),1677,3,DF,Eric García,09/01/2001,21,19,0, Barcelona,La Liga,Spain
+ESP,spain (ESP),1678,4,DF,Pau Torres,16/01/1997,25,22,1, Villarreal,La Liga,Spain
+ESP,spain (ESP),1679,5,MF,Sergio Busquets ,16/07/1988,34,139,2, Barcelona,La Liga,Spain
+ESP,spain (ESP),1680,6,MF,Marcos Llorente,30/01/1995,27,17,0, Atlético Madrid,La Liga,Spain
+ESP,spain (ESP),1681,7,FW,Álvaro Morata,23/10/1992,30,57,27, Atlético Madrid,La Liga,Spain
+ESP,spain (ESP),1682,8,MF,Koke,08/01/1992,30,68,0, Atlético Madrid,La Liga,Spain
+ESP,spain (ESP),1683,9,MF,Gavi,05/08/2004,18,13,2, Barcelona,La Liga,Spain
+ESP,spain (ESP),1684,10,FW,Marco Asensio,21/01/1996,26,31,1, Real Madrid,La Liga,Spain
+ESP,spain (ESP),1685,11,FW,Ferran Torres,29/02/2000,22,31,13, Barcelona,La Liga,Spain
+ESP,spain (ESP),1686,12,FW,Nico Williams,12/07/2002,20,3,1, Athletic Bilbao,La Liga,Spain
+ESP,spain (ESP),1687,13,GK,David Raya,15/09/1995,27,2,0, Brentford,Premier League,England
+ESP,spain (ESP),1688,14,DF,Alejandro Balde,18/10/2003,19,0,0, Barcelona,La Liga,Spain
+ESP,spain (ESP),1689,15,DF,Hugo Guillamón,31/01/2000,22,3,1, Valencia,La Liga,Spain
+ESP,spain (ESP),1690,16,MF,Rodri,22/06/1996,26,35,1, Manchester City,Premier League,England
+ESP,spain (ESP),1691,17,FW,Yeremy Pino,20/10/2002,20,7,1, Villarreal,La Liga,Spain
+ESP,spain (ESP),1692,18,DF,Jordi Alba,21/03/1989,33,87,9, Barcelona,La Liga,Spain
+ESP,spain (ESP),1693,19,MF,Carlos Soler,02/01/1997,25,12,3, Paris Saint-Germain,Ligue 1,France
+ESP,spain (ESP),1694,20,DF,Dani Carvajal,11/01/1992,30,31,0, Real Madrid,La Liga,Spain
+ESP,spain (ESP),1695,21,FW,Dani Olmo,07/05/1998,24,25,4, RB Leipzig,Bundesliga,Germany
+ESP,spain (ESP),1696,22,FW,Pablo Sarabia,11/05/1992,30,25,9, Paris Saint-Germain,Ligue 1,France
+ESP,spain (ESP),1697,23,GK,Unai Simón,11/06/1997,25,27,0, Athletic Bilbao,La Liga,Spain
+ESP,spain (ESP),1698,24,DF,Aymeric Laporte,27/05/1994,28,16,1, Manchester City,Premier League,England
+ESP,spain (ESP),1699,25,FW,Ansu Fati,31/10/2002,20,5,2, Barcelona,La Liga,Spain
+ESP,spain (ESP),1700,26,MF,Pedri,25/11/2002,19,14,0, Barcelona,La Liga,Spain
+FRA,france (FRA),1287,1,GK,Hugo Lloris ,26/12/1986,35,139,0, Tottenham Hotspur,Premier League,England
+FRA,france (FRA),1288,2,DF,Benjamin Pavard,28/03/1996,26,46,2, Bayern Munich,Bundesliga,Germany
+FRA,france (FRA),1289,3,DF,Axel Disasi,11/03/1998,24,0,0, Monaco,Ligue 1,France
+FRA,france (FRA),1290,4,DF,Raphaël Varane,25/04/1993,29,87,5, Manchester United,Premier League,England
+FRA,france (FRA),1291,5,DF,Jules Koundé,12/11/1998,24,12,0, Barcelona,La Liga,Spain
+FRA,france (FRA),1292,6,MF,Matteo Guendouzi,14/04/1999,23,6,1, Marseille,Ligue 1,France
+FRA,france (FRA),1293,7,FW,Antoine Griezmann,21/03/1991,31,110,42, Atlético Madrid,La Liga,Spain
+FRA,france (FRA),1294,8,MF,Aurélien Tchouaméni,27/01/2000,22,14,1, Real Madrid,La Liga,Spain
+FRA,france (FRA),1295,9,FW,Olivier Giroud,30/09/1986,36,114,49, Milan,Serie A,Italy
+FRA,france (FRA),1296,10,FW,Kylian Mbappé,20/12/1998,23,59,28, Paris Saint-Germain,Ligue 1,France
+FRA,france (FRA),1297,11,FW,Ousmane Dembélé,15/05/1997,25,28,4, Barcelona,La Liga,Spain
+FRA,france (FRA),1298,12,FW,Randal Kolo Muani,05/12/1998,23,2,0, Eintracht Frankfurt,Bundesliga,Germany
+FRA,france (FRA),1299,13,MF,Youssouf Fofana,10/01/1999,23,2,0, Monaco,Ligue 1,France
+FRA,france (FRA),1300,14,MF,Adrien Rabiot,03/04/1995,27,29,2, Juventus,Serie A,Italy
+FRA,france (FRA),1301,15,MF,Jordan Veretout,01/03/1993,29,5,0, Marseille,Ligue 1,France
+FRA,france (FRA),1302,16,GK,Steve Mandanda,28/03/1985,37,34,0, Rennes,Ligue 1,France
+FRA,france (FRA),1303,17,DF,William Saliba,24/03/2001,21,7,0, Arsenal,Premier League,England
+FRA,france (FRA),1304,18,DF,Dayot Upamecano,27/10/1998,24,7,1, Bayern Munich,Bundesliga,Germany
+FRA,france (FRA),1305,19,FW,Karim Benzema,19/12/1987,34,97,37, Real Madrid,La Liga,Spain
+FRA,france (FRA),1306,20,FW,Kingsley Coman,13/06/1996,26,40,5, Bayern Munich,Bundesliga,Germany
+FRA,france (FRA),1307,21,DF,Lucas Hernandez,14/02/1996,26,32,0, Bayern Munich,Bundesliga,Germany
+FRA,france (FRA),1308,22,DF,Theo Hernandez,06/10/1997,25,7,1, Milan,Serie A,Italy
+FRA,france (FRA),1309,23,GK,Alphonse Areola,27/02/1993,29,5,0, West Ham United,Premier League,England
+FRA,france (FRA),1310,24,DF,Ibrahima Konaté,25/05/1999,23,2,0, Liverpool,Premier League,England
+FRA,france (FRA),1311,25,MF,Eduardo Camavinga,10/11/2002,20,4,1, Real Madrid,La Liga,Spain
+FRA,france (FRA),1312,26,FW,Marcus Thuram,06/08/1997,25,4,0, Borussia Mönchengladbach,Bundesliga,Germany
+GER,germany (GER),1313,1,GK,Manuel Neuer ,27/03/1986,36,114,0, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1314,2,DF,Antonio Rüdiger,03/03/1993,29,54,2, Real Madrid,La Liga,Spain
+GER,germany (GER),1315,3,DF,David Raum,22/04/1998,24,12,0, RB Leipzig,Bundesliga,Germany
+GER,germany (GER),1316,4,DF,Matthias Ginter,19/01/1994,28,47,2, SC Freiburg,Bundesliga,Germany
+GER,germany (GER),1317,5,DF,Thilo Kehrer,21/09/1996,26,23,0, West Ham United,Premier League,England
+GER,germany (GER),1318,6,MF,Joshua Kimmich,08/02/1995,27,71,5, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1319,7,FW,Kai Havertz,11/06/1999,23,31,10, Chelsea,Premier League,England
+GER,germany (GER),1320,8,MF,Leon Goretzka,06/02/1995,27,45,14, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1321,9,FW,Niclas Füllkrug,09/02/1993,29,1,1, Werder Bremen,Bundesliga,Germany
+GER,germany (GER),1322,10,FW,Serge Gnabry,14/07/1995,27,36,20, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1323,11,MF,Mario Götze,03/06/1992,30,63,17, Eintracht Frankfurt,Bundesliga,Germany
+GER,germany (GER),1324,12,GK,Kevin Trapp,08/07/1990,32,6,0, Eintracht Frankfurt,Bundesliga,Germany
+GER,germany (GER),1325,13,MF,Thomas Müller,13/09/1989,33,118,44, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1326,14,MF,Jamal Musiala,26/02/2003,19,17,1, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1327,15,DF,Niklas Süle,03/09/1995,27,42,1, Borussia Dortmund,Bundesliga,Germany
+GER,germany (GER),1328,16,DF,Lukas Klostermann,03/06/1996,26,19,0, RB Leipzig,Bundesliga,Germany
+GER,germany (GER),1329,17,MF,Julian Brandt,02/05/1996,26,39,3, Borussia Dortmund,Bundesliga,Germany
+GER,germany (GER),1330,18,MF,Jonas Hofmann,14/07/1992,30,17,4, Borussia Mönchengladbach,Bundesliga,Germany
+GER,germany (GER),1331,19,MF,Leroy Sané,11/01/1996,26,48,11, Bayern Munich,Bundesliga,Germany
+GER,germany (GER),1332,20,DF,Christian Günter,28/02/1993,29,7,0, SC Freiburg,Bundesliga,Germany
+GER,germany (GER),1333,21,MF,İlkay Gündoğan,24/10/1990,32,63,16, Manchester City,Premier League,England
+GER,germany (GER),1334,22,GK,Marc-André ter Stegen,30/04/1992,30,30,0, Barcelona,La Liga,Spain
+GER,germany (GER),1335,23,DF,Nico Schlotterbeck,01/12/1999,22,6,0, Borussia Dortmund,Bundesliga,Germany
+GER,germany (GER),1336,24,FW,Karim Adeyemi,18/01/2002,20,4,1, Borussia Dortmund,Bundesliga,Germany
+GER,germany (GER),1337,25,DF,Armel Bella-Kotchap,11/12/2001,20,2,0, Southampton,Premier League,England
+GER,germany (GER),1338,26,FW,Youssoufa Moukoko,20/11/2004,18,1,0, Borussia Dortmund,Bundesliga,Germany
+GHA,ghana (GHA),1339,1,GK,Lawrence Ati-Zigi,29/11/1996,25,11,0, St. Gallen,Super League,Switzerland
+GHA,ghana (GHA),1340,2,DF,Tariq Lamptey,30/09/2000,22,2,0, Brighton & Hove Albion,Premier League,England
+GHA,ghana (GHA),1341,3,DF,Denis Odoi,27/05/1988,34,4,0, Club Brugge,First Division A,Belgium
+GHA,ghana (GHA),1342,4,DF,Mohammed Salisu,17/04/1999,23,3,1, Southampton,Premier League,England
+GHA,ghana (GHA),1343,5,MF,Thomas Partey,13/06/1993,29,40,13, Arsenal,Premier League,England
+GHA,ghana (GHA),1344,6,MF,Elisha Owusu,07/11/1997,25,3,0, Gent,First Division A,Belgium
+GHA,ghana (GHA),1345,7,MF,Abdul Fatawu Issahaku,08/03/2004,18,13,1, Sporting CP,Primeira Liga,Portugal
+GHA,ghana (GHA),1346,8,MF,Daniel-Kofi Kyereh,08/03/1996,26,15,0, SC Freiburg,Bundesliga,Germany
+GHA,ghana (GHA),1347,9,FW,Jordan Ayew,11/09/1991,31,84,19, Crystal Palace,Premier League,England
+GHA,ghana (GHA),1348,10,FW,André Ayew ,17/12/1989,32,110,23, Al-Sadd,Stars League,Qatar
+GHA,ghana (GHA),1349,11,MF,Osman Bukari,13/12/1998,23,7,1, Red Star Belgrade,Super Liga - Serbia,Serbia
+GHA,ghana (GHA),1350,12,GK,Ibrahim Danlad,02/12/2002,19,4,0, Asante Kotoko,Ghana Premier League,Ghana
+GHA,ghana (GHA),1351,13,MF,Daniel Afriyie,26/06/2001,21,7,3, Hearts of Oak,Ghana Premier League,Ghana
+GHA,ghana (GHA),1352,14,DF,Gideon Mensah,18/07/1998,24,12,0, Auxerre,Ligue 1,France
+GHA,ghana (GHA),1353,15,DF,Joseph Aidoo,29/09/1995,27,11,0, Celta Vigo,La Liga,Spain
+GHA,ghana (GHA),1354,16,GK,Abdul Manaf Nurudeen,08/02/1999,23,2,0, Eupen,Challenger Pro League,Belgium
+GHA,ghana (GHA),1355,17,DF,Baba Rahman,02/07/1994,28,48,1, Reading,Championship,England
+GHA,ghana (GHA),1356,18,DF,Daniel Amartey,21/12/1994,27,46,0, Leicester City,Premier League,England
+GHA,ghana (GHA),1357,19,FW,Iñaki Williams,15/06/1994,28,3,0, Athletic Bilbao,La Liga,Spain
+GHA,ghana (GHA),1358,20,MF,Mohammed Kudus,02/08/2000,22,18,4, Ajax,Eredivisie,Netherlands
+GHA,ghana (GHA),1359,21,MF,Salis Abdul Samed,26/03/2000,22,1,0, Lens,Ligue 1,France
+GHA,ghana (GHA),1360,22,MF,Kamaldeen Sulemana,15/02/2002,20,13,0, Rennes,Ligue 1,France
+GHA,ghana (GHA),1361,23,DF,Alexander Djiku,09/08/1994,28,18,1, Strasbourg,Ligue 1,France
+GHA,ghana (GHA),1362,24,MF,Kamal Sowah,09/01/2000,22,1,0, Club Brugge,First Division A,Belgium
+GHA,ghana (GHA),1363,25,FW,Antoine Semenyo,07/01/2000,22,4,1, Bristol City,Championship,England
+GHA,ghana (GHA),1364,26,DF,Alidu Seidu,04/06/2000,22,4,0, Clermont,Ligue 1,France
+IRN,iran (IRN),1365,1,GK,Alireza Beiranvand,21/09/1992,30,52,0, Persepolis,Persian Golf Pro League,Iran
+IRN,iran (IRN),1366,2,DF,Sadegh Moharrami,01/03/1996,26,21,0, Dinamo Zagreb,HNL,Croatia
+IRN,iran (IRN),1367,3,DF,Ehsan Hajsafi ,25/02/1990,32,121,7, AEK Athens,Super League 1,Greece
+IRN,iran (IRN),1368,4,DF,Shojae Khalilzadeh,14/05/1989,33,25,1, Al-Ahli Doha,Stars League,Qatar
+IRN,iran (IRN),1369,5,DF,Milad Mohammadi,29/09/1993,29,45,1, AEK Athens,Super League 1,Greece
+IRN,iran (IRN),1370,6,MF,Saeid Ezatolahi,01/10/1996,26,47,1, Vejle,1. Division Denmark,Denmark
+IRN,iran (IRN),1371,7,MF,Alireza Jahanbakhsh,11/08/1993,29,64,13, Feyenoord,Eredivisie,Netherlands
+IRN,iran (IRN),1372,8,DF,Morteza Pouraliganji,19/04/1992,30,46,3, Persepolis,Persian Golf Pro League,Iran
+IRN,iran (IRN),1373,9,FW,Mehdi Taremi,18/07/1992,30,60,28, Porto,Primeira Liga,Portugal
+IRN,iran (IRN),1374,10,FW,Karim Ansarifard,03/04/1990,32,94,29, Omonia,1. Division - Crypus,Cyprus
+IRN,iran (IRN),1375,11,MF,Vahid Amiri,02/04/1988,34,68,2, Persepolis,Persian Golf Pro League,Iran
+IRN,iran (IRN),1376,12,GK,Payam Niazmand,06/04/1995,27,1,0, Sepahan,Persian Golf Pro League,Iran
+IRN,iran (IRN),1377,13,DF,Hossein Kanaanizadegan,23/03/1994,28,35,2, Al-Ahli Doha,Stars League,Qatar
+IRN,iran (IRN),1378,14,MF,Saman Ghoddos,06/09/1993,29,33,2, Brentford,Premier League,England
+IRN,iran (IRN),1379,15,DF,Rouzbeh Cheshmi,24/07/1993,29,19,1, Esteghlal,Persian Golf Pro League,Iran
+IRN,iran (IRN),1380,16,MF,Mehdi Torabi,10/09/1994,28,36,7, Persepolis,Persian Golf Pro League,Iran
+IRN,iran (IRN),1381,17,MF,Ali Gholizadeh,10/03/1996,26,26,6, Charleroi,First Division A,Belgium
+IRN,iran (IRN),1382,18,MF,Ali Karimi,11/02/1994,28,13,0, Kayserispor,Super Lig,Turkey
+IRN,iran (IRN),1383,19,DF,Majid Hosseini,20/06/1996,26,18,0, Kayserispor,Super Lig,Turkey
+IRN,iran (IRN),1384,20,FW,Sardar Azmoun,01/01/1995,27,65,41, Bayer Leverkusen,Bundesliga,Germany
+IRN,iran (IRN),1385,21,MF,Ahmad Nourollahi,01/02/1993,29,25,3, Shabab Al-Ahli,Pro League UAE,United Arab Emirates
+IRN,iran (IRN),1386,22,GK,Amir Abedzadeh,26/04/1993,29,11,0, Ponferradina,Segunda Division,Spain
+IRN,iran (IRN),1387,23,DF,Ramin Rezaeian,21/03/1990,32,46,2, Sepahan,Persian Golf Pro League,Iran
+IRN,iran (IRN),1388,24,GK,Hossein Hosseini,30/06/1992,30,6,0, Esteghlal,Persian Golf Pro League,Iran
+IRN,iran (IRN),1389,25,DF,Abolfazl Jalali,26/06/1998,24,3,0, Esteghlal,Persian Golf Pro League,Iran
+JPN,japan (JPN),1390,1,GK,Eiji Kawashima,20/03/1983,39,95,0, Strasbourg,Ligue 1,France
+JPN,japan (JPN),1391,2,DF,Miki Yamane,22/12/1993,28,15,2, Kawasaki Frontale,J1 League,Japan
+JPN,japan (JPN),1392,3,DF,Shogo Taniguchi,15/07/1991,31,14,0, Kawasaki Frontale,J1 League,Japan
+JPN,japan (JPN),1393,4,DF,Ko Itakura,27/01/1997,25,13,1, Borussia Mönchengladbach,Bundesliga,Germany
+JPN,japan (JPN),1394,5,DF,Yuto Nagatomo,12/09/1986,36,138,4, FC Tokyo,J1 League,Japan
+JPN,japan (JPN),1395,6,MF,Wataru Endo,09/02/1993,29,43,2, VfB Stuttgart,Bundesliga,Germany
+JPN,japan (JPN),1396,7,MF,Gaku Shibasaki,28/05/1992,30,60,3, Leganés,Segunda Division,Spain
+JPN,japan (JPN),1397,8,MF,Ritsu Dōan,16/06/1998,24,29,3, SC Freiburg,Bundesliga,Germany
+JPN,japan (JPN),1398,9,MF,Kaoru Mitoma,20/05/1997,25,9,5, Brighton & Hove Albion,Premier League,England
+JPN,japan (JPN),1399,10,MF,Takumi Minamino,16/01/1995,27,44,17, Monaco,Ligue 1,France
+JPN,japan (JPN),1400,11,MF,Takefusa Kubo,04/06/2001,21,20,1, Real Sociedad,La Liga,Spain
+JPN,japan (JPN),1401,12,GK,Shūichi Gonda,03/03/1989,33,34,0, Shimizu S-Pulse,J1 League,Japan
+JPN,japan (JPN),1402,13,MF,Hidemasa Morita,10/05/1995,27,17,2, Sporting CP,Primeira Liga,Portugal
+JPN,japan (JPN),1403,14,MF,Junya Ito,09/03/1993,29,38,9, Reims,Ligue 1,France
+JPN,japan (JPN),1404,15,MF,Daichi Kamada,05/08/1996,26,22,6, Eintracht Frankfurt,Bundesliga,Germany
+JPN,japan (JPN),1405,16,DF,Takehiro Tomiyasu,05/11/1998,24,29,1, Arsenal,Premier League,England
+JPN,japan (JPN),1406,17,MF,Ao Tanaka,10/09/1998,24,15,2, Fortuna Düsseldorf,2. Bundesliga,Germany
+JPN,japan (JPN),1407,18,FW,Takuma Asano,10/11/1994,28,37,7, VfL Bochum,Bundesliga,Germany
+JPN,japan (JPN),1408,19,DF,Hiroki Sakai,12/04/1990,32,72,1, Urawa Red Diamonds,J1 League,Japan
+JPN,japan (JPN),1409,20,FW,Shuto Machino,30/09/1999,23,4,3, Shonan Bellmare,J1 League,Japan
+JPN,japan (JPN),1410,21,FW,Ayase Ueda,28/08/1998,24,11,0, Cercle Brugge,First Division A,Belgium
+JPN,japan (JPN),1411,22,DF,Maya Yoshida ,24/08/1988,34,122,12, Schalke 04,Bundesliga,Germany
+JPN,japan (JPN),1412,23,GK,Daniel Schmidt,03/02/1992,30,11,0, Sint-Truiden,First Division A,Belgium
+JPN,japan (JPN),1413,24,MF,Yuki Soma,25/02/1997,25,8,4, Nagoya Grampus,J1 League,Japan
+JPN,japan (JPN),1414,25,FW,Daizen Maeda,20/10/1997,25,8,1, Celtic,Premiership,Scotland
+JPN,japan (JPN),1415,26,DF,Hiroki Ito,12/05/1999,23,6,0, VfB Stuttgart,Bundesliga,Germany
+KOR,korea rep (KOR),1416,1,GK,Kim Seung-gyu,30/09/1990,32,67,0, Al-Shabab,Saudi Division 1,Saudi Arabia
+KOR,korea rep (KOR),1417,2,DF,Yoon Jong-gyu,20/03/1998,24,4,0, FC Seoul,K League 1,Korea Rep
+KOR,korea rep (KOR),1418,3,DF,Kim Jin-su,13/06/1992,30,61,2, Jeonbuk Hyundai Motors,K League 1,Korea Rep
+KOR,korea rep (KOR),1419,4,DF,Kim Min-jae,15/11/1996,26,44,3, Napoli,Serie A,Italy
+KOR,korea rep (KOR),1420,5,MF,Jung Woo-young,14/12/1989,32,66,3, Al-Sadd,Stars League,Qatar
+KOR,korea rep (KOR),1421,6,MF,Hwang In-beom,20/09/1996,26,37,4, Olympiacos,Super League 1,Greece
+KOR,korea rep (KOR),1422,7,MF,Son Heung-min ,08/07/1992,30,104,35, Tottenham Hotspur,Premier League,England
+KOR,korea rep (KOR),1423,8,MF,Paik Seung-ho,17/03/1997,25,14,2, Jeonbuk Hyundai Motors,K League 1,Korea Rep
+KOR,korea rep (KOR),1424,9,FW,Cho Gue-sung,25/01/1998,24,16,4, Jeonbuk Hyundai Motors,K League 1,Korea Rep
+KOR,korea rep (KOR),1425,10,MF,Lee Jae-sung,10/08/1992,30,64,9, Mainz 05,Bundesliga,Germany
+KOR,korea rep (KOR),1426,11,MF,Hwang Hee-chan,26/01/1996,26,49,9, Wolverhampton Wanderers,Premier League,England
+KOR,korea rep (KOR),1427,12,GK,Song Bum-keun,15/10/1997,25,1,0, Jeonbuk Hyundai Motors,K League 1,Korea Rep
+KOR,korea rep (KOR),1428,13,MF,Son Jun-ho,12/05/1992,30,15,0, Shandong Taishan,CSL,China
+KOR,korea rep (KOR),1429,14,DF,Hong Chul,17/09/1990,32,46,1, Daegu FC,K League 1,Korea Rep
+KOR,korea rep (KOR),1430,15,DF,Kim Moon-hwan,01/08/1995,27,22,0, Jeonbuk Hyundai Motors,K League 1,Korea Rep
+KOR,korea rep (KOR),1431,16,FW,Hwang Ui-jo,28/08/1992,30,49,16, Olympiacos,Super League 1,Greece
+KOR,korea rep (KOR),1432,17,MF,Na Sang-ho,12/08/1996,26,24,2, FC Seoul,K League 1,Korea Rep
+KOR,korea rep (KOR),1433,18,MF,Lee Kang-in,19/02/2001,21,6,0, Mallorca,La Liga,Spain
+KOR,korea rep (KOR),1434,19,DF,Kim Young-gwon,27/02/1990,32,96,6, Ulsan Hyundai,K League 1,Korea Rep
+KOR,korea rep (KOR),1435,20,DF,Kwon Kyung-won,31/01/1992,30,28,2, Gamba Osaka,J1 League,Japan
+KOR,korea rep (KOR),1436,21,GK,Jo Hyeon-woo,25/09/1991,31,22,0, Ulsan Hyundai,K League 1,Korea Rep
+KOR,korea rep (KOR),1437,22,MF,Kwon Chang-hoon,30/06/1994,28,42,12, Gimcheon Sangmu,K League 1,Korea Rep
+KOR,korea rep (KOR),1438,23,DF,Kim Tae-hwan,24/07/1989,33,19,0, Ulsan Hyundai,K League 1,Korea Rep
+KOR,korea rep (KOR),1439,24,DF,Cho Yu-min,17/11/1996,26,4,0, Daejeon Hana Citizen,K League 2,Korea Rep
+KOR,korea rep (KOR),1440,25,MF,Jeong Woo-yeong,20/09/1999,23,9,2, SC Freiburg,Bundesliga,Germany
+KOR,korea rep (KOR),1441,26,MF,Song Min-kyu,12/09/1999,23,13,1, Jeonbuk Hyundai Motors,K League 1,Korea Rep
+KSA,saudi arabia (KSA),1598,1,GK,Mohammed Al-Rubaie,14/08/1997,25,7,0, Al-Ahli,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1599,2,DF,Sultan Al-Ghannam,06/05/1994,28,24,0, Al-Nassr,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1600,3,DF,Abdullah Madu,15/07/1993,29,15,0, Al-Nassr,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1601,4,DF,Abdulelah Al-Amri,15/01/1997,25,20,1, Al-Nassr,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1602,5,DF,Ali Al-Bulaihi,21/11/1989,32,37,0, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1603,6,DF,Mohammed Al-Breik,15/09/1992,30,40,1, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1604,7,MF,Salman Al-Faraj ,01/08/1989,33,70,8, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1605,8,MF,Abdulellah Al-Malki,11/10/1994,28,27,0, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1606,9,FW,Firas Al-Buraikan,14/05/2000,22,26,6, Al-Fateh,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1607,10,FW,Salem Al-Dawsari,19/08/1991,31,71,17, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1608,11,FW,Saleh Al-Shehri,01/11/1993,29,20,10, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1609,12,DF,Saud Abdulhamid,18/07/1999,23,23,1, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1610,13,DF,Yasser Al-Shahrani,25/05/1992,30,72,2, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1611,14,MF,Abdullah Otayf,03/08/1992,30,45,1, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1612,15,MF,Ali Al-Hassan,04/03/1997,25,13,1, Al-Nassr,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1613,16,MF,Sami Al-Najei,07/02/1997,25,17,2, Al-Nassr,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1614,17,DF,Hassan Al-Tambakti,09/02/1999,23,19,0, Al-Shabab,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1615,18,MF,Nawaf Al-Abed,26/01/1990,32,55,8, Al-Shabab,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1616,19,FW,Hattan Bahebri,16/07/1992,30,41,4, Al-Shabab,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1617,20,FW,Abdulrahman Al-Aboud,01/06/1995,27,3,0, Al-Ittihad,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1618,21,GK,Mohammed Al-Owais,10/10/1991,31,42,0, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1619,22,GK,Nawaf Al-Aqidi,10/05/2000,22,0,0, Al-Nassr,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1620,23,MF,Mohamed Kanno,22/09/1994,28,38,1, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1621,24,MF,Nasser Al-Dawsari,19/12/1998,23,10,0, Al-Hilal,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1622,25,FW,Haitham Asiri,25/03/2001,21,8,1, Al-Ahli,Saudi Division 1,Saudi Arabia
+KSA,saudi arabia (KSA),1623,26,MF,Riyadh Sharahili,28/04/1993,29,5,0, Abha,Saudi Division 1,Saudi Arabia
+MAR,morocco (MAR),1468,1,GK,Yassine Bounou,05/04/1991,31,46,0, Sevilla,La Liga,Spain
+MAR,morocco (MAR),1469,2,DF,Achraf Hakimi,04/11/1998,24,54,8, Paris Saint-Germain,Ligue 1,France
+MAR,morocco (MAR),1470,3,DF,Noussair Mazraoui,14/11/1997,25,15,2, Bayern Munich,Bundesliga,Germany
+MAR,morocco (MAR),1471,4,MF,Sofyan Amrabat,21/08/1996,26,39,0, Fiorentina,Serie A,Italy
+MAR,morocco (MAR),1472,5,DF,Nayef Aguerd,30/03/1996,26,22,1, West Ham United,Premier League,England
+MAR,morocco (MAR),1473,6,DF,Romain Saïss ,26/03/1990,32,66,1, Beşiktaş,Super Lig,Turkey
+MAR,morocco (MAR),1474,7,MF,Hakim Ziyech,19/03/1993,29,43,18, Chelsea,Premier League,England
+MAR,morocco (MAR),1475,8,MF,Azzedine Ounahi,19/04/2000,22,10,2, Angers,Ligue 1,France
+MAR,morocco (MAR),1476,9,FW,Abderrazak Hamdallah,17/12/1990,31,18,6, Al-Ittihad,Saudi Division 1,Saudi Arabia
+MAR,morocco (MAR),1477,10,MF,Anass Zaroury,07/11/2000,22,1,0, Burnley,Championship,England
+MAR,morocco (MAR),1478,11,FW,Abdelhamid Sabiri,28/11/1996,25,2,1, Sampdoria,Serie A,Italy
+MAR,morocco (MAR),1479,12,GK,Munir Mohamedi,10/05/1989,33,43,0, Al-Wehda,Saudi Division 1,Saudi Arabia
+MAR,morocco (MAR),1480,13,MF,Ilias Chair,30/10/1997,25,11,1, Queens Park Rangers,Championship,England
+MAR,morocco (MAR),1481,14,MF,Zakaria Aboukhlal,18/02/2000,22,12,2, Toulouse,Ligue 1,France
+MAR,morocco (MAR),1482,15,MF,Selim Amallah,15/11/1996,26,24,4, Standard Liège,First Division A,Belgium
+MAR,morocco (MAR),1483,16,FW,Abde Ezzalzouli,17/12/2001,20,2,0, Osasuna,La Liga,Spain
+MAR,morocco (MAR),1484,17,MF,Sofiane Boufal,17/09/1993,29,32,6, Angers,Ligue 1,France
+MAR,morocco (MAR),1485,18,DF,Jawad El Yamiq,29/02/1992,30,12,2, Valladolid,La Liga,Spain
+MAR,morocco (MAR),1486,19,FW,Youssef En-Nesyri,01/06/1997,25,50,15, Sevilla,La Liga,Spain
+MAR,morocco (MAR),1487,20,DF,Achraf Dari,06/05/1999,23,4,0, Brest,Ligue 1,France
+MAR,morocco (MAR),1488,21,FW,Walid Cheddira,22/01/1998,24,2,0, Bari,Serie B,Italy
+MAR,morocco (MAR),1489,22,GK,Ahmed Reda Tagnaouti,05/04/1996,26,3,0, Wydad AC,Botola Pro,Morocco
+MAR,morocco (MAR),1490,23,MF,Bilal El Khannous,10/05/2004,18,0,0, Genk,First Division A,Belgium
+MAR,morocco (MAR),1491,24,DF,Badr Benoun,30/09/1993,29,3,0, Qatar SC,Stars League,Qatar
+MAR,morocco (MAR),1492,25,DF,Yahia Attiyat Allah,02/03/1995,27,2,0, Wydad AC,Botola Pro,Morocco
+MAR,morocco (MAR),1493,26,MF,Yahya Jabrane,18/06/1991,31,5,0, Wydad AC,Botola Pro,Morocco
+MEX,mexico (MEX),1442,1,GK,Alfredo Talavera,18/09/1982,40,40,0, Juárez,Liga MX,Mexico
+MEX,mexico (MEX),1443,2,DF,Néstor Araujo,29/08/1991,31,63,3, América,Liga MX,Mexico
+MEX,mexico (MEX),1444,3,DF,César Montes,24/02/1997,25,30,1, Monterrey,Liga MX,Mexico
+MEX,mexico (MEX),1445,4,DF,Edson Álvarez,24/10/1997,25,58,3, Ajax,Eredivisie,Netherlands
+MEX,mexico (MEX),1446,5,DF,Johan Vásquez,22/10/1998,24,7,0, Cremonese,Serie A,Italy
+MEX,mexico (MEX),1447,6,DF,Gerardo Arteaga,07/09/1998,24,17,1, Genk,First Division A,Belgium
+MEX,mexico (MEX),1448,7,MF,Luis Romo,05/06/1995,27,27,1, Monterrey,Liga MX,Mexico
+MEX,mexico (MEX),1449,8,MF,Carlos Rodríguez,03/01/1997,25,36,0, Cruz Azul,Liga MX,Mexico
+MEX,mexico (MEX),1450,9,FW,Raúl Jiménez,05/05/1991,31,95,29, Wolverhampton Wanderers,Premier League,England
+MEX,mexico (MEX),1451,10,FW,Alexis Vega,25/11/1997,24,22,6, Guadalajara,Liga MX,Mexico
+MEX,mexico (MEX),1452,11,FW,Rogelio Funes Mori,05/03/1991,31,16,6, Monterrey,Liga MX,Mexico
+MEX,mexico (MEX),1453,12,GK,Rodolfo Cota,03/07/1987,35,8,0, León,Liga MX,Mexico
+MEX,mexico (MEX),1454,13,GK,Guillermo Ochoa,13/07/1985,37,131,0, América,Liga MX,Mexico
+MEX,mexico (MEX),1455,14,MF,Érick Gutiérrez,15/06/1995,27,34,1, PSV Eindhoven,Eredivisie,Netherlands
+MEX,mexico (MEX),1456,15,DF,Héctor Moreno,17/01/1988,34,128,5, Monterrey,Liga MX,Mexico
+MEX,mexico (MEX),1457,16,MF,Héctor Herrera,19/04/1990,32,102,10, Houston Dynamo FC,MLS,USA
+MEX,mexico (MEX),1458,17,FW,Orbelín Pineda,24/03/1996,26,50,6, AEK Athens,Super League 1,Greece
+MEX,mexico (MEX),1459,18,MF,Andrés Guardado ,28/09/1986,36,178,28, Real Betis,La Liga,Spain
+MEX,mexico (MEX),1460,19,DF,Jorge Sánchez,10/12/1997,24,26,1, Ajax,Eredivisie,Netherlands
+MEX,mexico (MEX),1461,20,FW,Henry Martín,18/11/1992,30,27,6, América,Liga MX,Mexico
+MEX,mexico (MEX),1462,21,FW,Uriel Antuna,21/08/1997,25,36,9, Cruz Azul,Liga MX,Mexico
+MEX,mexico (MEX),1463,22,FW,Hirving Lozano,30/07/1995,27,60,16, Napoli,Serie A,Italy
+MEX,mexico (MEX),1464,23,DF,Jesús Gallardo,15/08/1994,28,78,1, Monterrey,Liga MX,Mexico
+MEX,mexico (MEX),1465,24,MF,Luis Chávez,15/01/1996,26,9,0, Pachuca,Liga MX,Mexico
+MEX,mexico (MEX),1466,25,FW,Roberto Alvarado,07/09/1998,24,31,4, Guadalajara,Liga MX,Mexico
+MEX,mexico (MEX),1467,26,DF,Kevin Álvarez,15/01/1999,23,8,0, Pachuca,Liga MX,Mexico
+NED,netherlands (NED),1494,1,GK,Remko Pasveer,08/11/1983,39,2,0, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1495,2,DF,Jurriën Timber,17/06/2001,21,10,0, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1496,3,DF,Matthijs de Ligt,12/08/1999,23,38,2, Bayern Munich,Bundesliga,Germany
+NED,netherlands (NED),1497,4,DF,Virgil van Dijk ,08/07/1991,31,49,6, Liverpool,Premier League,England
+NED,netherlands (NED),1498,5,DF,Nathan Aké,18/02/1995,27,29,3, Manchester City,Premier League,England
+NED,netherlands (NED),1499,6,DF,Stefan de Vrij,05/02/1992,30,59,3, Internazionale,Serie A,Italy
+NED,netherlands (NED),1500,7,FW,Steven Bergwijn,08/10/1997,25,24,7, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1501,8,FW,Cody Gakpo,07/05/1999,23,9,3, PSV Eindhoven,Eredivisie,Netherlands
+NED,netherlands (NED),1502,9,FW,Luuk de Jong,27/08/1990,32,38,8, PSV Eindhoven,Eredivisie,Netherlands
+NED,netherlands (NED),1503,10,FW,Memphis Depay,13/02/1994,28,81,42, Barcelona,La Liga,Spain
+NED,netherlands (NED),1504,11,MF,Steven Berghuis,19/12/1991,30,39,2, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1505,12,FW,Noa Lang,17/06/1999,23,5,1, Club Brugge,First Division A,Belgium
+NED,netherlands (NED),1506,13,GK,Justin Bijlow,22/01/1998,24,6,0, Feyenoord,Eredivisie,Netherlands
+NED,netherlands (NED),1507,14,MF,Davy Klaassen,21/02/1993,29,35,9, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1508,15,MF,Marten de Roon,29/03/1991,31,30,0, Atalanta,Serie A,Italy
+NED,netherlands (NED),1509,16,DF,Tyrell Malacia,17/08/1999,23,6,0, Manchester United,Premier League,England
+NED,netherlands (NED),1510,17,DF,Daley Blind,09/03/1990,32,94,2, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1511,18,FW,Vincent Janssen,15/06/1994,28,20,7, Antwerp,First Division A,Belgium
+NED,netherlands (NED),1512,19,FW,Wout Weghorst,07/08/1992,30,15,3, Beşiktaş,Super Lig,Turkey
+NED,netherlands (NED),1513,20,MF,Teun Koopmeiners,28/02/1998,24,10,1, Atalanta,Serie A,Italy
+NED,netherlands (NED),1514,21,MF,Frenkie de Jong,12/05/1997,25,45,1, Barcelona,La Liga,Spain
+NED,netherlands (NED),1515,22,DF,Denzel Dumfries,18/04/1996,26,37,5, Internazionale,Serie A,Italy
+NED,netherlands (NED),1516,23,GK,Andries Noppert,07/04/1994,28,0,0, Heerenveen,Eredivisie,Netherlands
+NED,netherlands (NED),1517,24,MF,Kenneth Taylor,16/05/2002,20,2,0, Ajax,Eredivisie,Netherlands
+NED,netherlands (NED),1518,25,MF,Xavi Simons,21/04/2003,19,0,0, PSV Eindhoven,Eredivisie,Netherlands
+NED,netherlands (NED),1519,26,DF,Jeremie Frimpong,10/12/2000,21,0,0, Bayer Leverkusen,Bundesliga,Germany
+POL,poland (POL),1520,1,GK,Wojciech Szczęsny,18/04/1990,32,66,0, Juventus,Serie A,Italy
+POL,poland (POL),1521,2,DF,Matty Cash,07/08/1997,25,7,1, Aston Villa,Premier League,England
+POL,poland (POL),1522,3,DF,Artur Jędrzejczyk,04/11/1987,35,40,3, Legia Warsaw,Ekstraklasa,Poland
+POL,poland (POL),1523,4,DF,Mateusz Wieteska,11/02/1997,25,2,0, Clermont,Ligue 1,France
+POL,poland (POL),1524,5,DF,Jan Bednarek,12/04/1996,26,45,1, Aston Villa,Premier League,England
+POL,poland (POL),1525,6,MF,Krystian Bielik,04/01/1998,24,5,0, Birmingham City,Championship,England
+POL,poland (POL),1526,7,FW,Arkadiusz Milik,28/02/1994,28,64,16, Juventus,Serie A,Italy
+POL,poland (POL),1527,8,MF,Damian Szymański,16/06/1995,27,9,1, AEK Athens,Super League 1,Greece
+POL,poland (POL),1528,9,FW,Robert Lewandowski ,21/08/1988,34,134,76, Barcelona,La Liga,Spain
+POL,poland (POL),1529,10,MF,Grzegorz Krychowiak,29/01/1990,32,94,5, Al-Shabab,Saudi Division 1,Saudi Arabia
+POL,poland (POL),1530,11,MF,Kamil Grosicki,08/06/1988,34,87,17, Pogoń Szczecin,Ekstraklasa,Poland
+POL,poland (POL),1531,12,GK,Łukasz Skorupski,05/05/1991,31,8,0, Bologna,Serie A,Italy
+POL,poland (POL),1532,13,MF,Jakub Kamiński,05/06/2002,20,4,1, VfL Wolfsburg,Bundesliga,Germany
+POL,poland (POL),1533,14,DF,Jakub Kiwior,15/02/2000,22,5,0, Spezia,Serie A,Italy
+POL,poland (POL),1534,15,DF,Kamil Glik,03/02/1988,34,99,6, Benevento,Serie B,Italy
+POL,poland (POL),1535,16,FW,Karol Świderski,23/01/1997,25,18,8, Charlotte FC,MLS,USA
+POL,poland (POL),1536,17,MF,Szymon Żurkowski,25/09/1997,25,7,0, Fiorentina,Serie A,Italy
+POL,poland (POL),1537,18,DF,Bartosz Bereszyński,12/07/1992,30,46,0, Sampdoria,Serie A,Italy
+POL,poland (POL),1538,19,MF,Sebastian Szymański,10/05/1999,23,18,1, Feyenoord,Eredivisie,Netherlands
+POL,poland (POL),1539,20,MF,Piotr Zieliński,20/05/1994,28,74,9, Napoli,Serie A,Italy
+POL,poland (POL),1540,21,MF,Nicola Zalewski,23/01/2002,20,7,0, Roma,Serie A,Italy
+POL,poland (POL),1541,22,GK,Kamil Grabara,08/01/1999,23,1,0, Copenhagen,Superliga,Denmark
+POL,poland (POL),1542,23,FW,Krzysztof Piątek,01/07/1995,27,25,11, Salernitana,Serie A,Italy
+POL,poland (POL),1543,24,MF,Przemysław Frankowski,12/04/1995,27,26,1, Lens,Ligue 1,France
+POL,poland (POL),1544,25,DF,Robert Gumny,04/06/1998,24,5,0, FC Augsburg,Bundesliga,Germany
+POL,poland (POL),1545,26,MF,Michał Skóraś,15/02/2000,22,1,0, Lech Poznań,Ekstraklasa,Poland
+POR,portugal (POR),1546,1,GK,Rui Patrício,15/02/1988,34,105,0, Roma,Serie A,Italy
+POR,portugal (POR),1547,2,DF,Diogo Dalot,18/03/1999,23,7,2, Manchester United,Premier League,England
+POR,portugal (POR),1548,3,DF,Pepe,26/02/1983,39,129,7, Porto,Primeira Liga,Portugal
+POR,portugal (POR),1549,4,DF,Rúben Dias,14/05/1997,25,40,2, Manchester City,Premier League,England
+POR,portugal (POR),1550,5,DF,Raphaël Guerreiro,22/12/1993,28,57,3, Borussia Dortmund,Bundesliga,Germany
+POR,portugal (POR),1551,6,MF,João Palhinha,09/07/1995,27,15,2, Fulham,Premier League,England
+POR,portugal (POR),1552,7,FW,Cristiano Ronaldo ,05/02/1985,37,191,117, Manchester United,Premier League,England
+POR,portugal (POR),1553,8,MF,Bruno Fernandes,08/09/1994,28,49,11, Manchester United,Premier League,England
+POR,portugal (POR),1554,9,FW,André Silva,06/11/1995,27,52,19, RB Leipzig,Bundesliga,Germany
+POR,portugal (POR),1555,10,FW,Bernardo Silva,10/08/1994,28,73,8, Manchester City,Premier League,England
+POR,portugal (POR),1556,11,FW,João Félix,10/11/1999,23,24,3, Atlético Madrid,La Liga,Spain
+POR,portugal (POR),1557,12,GK,José Sá,17/01/1993,29,0,0, Wolverhampton Wanderers,Premier League,England
+POR,portugal (POR),1558,13,DF,Danilo Pereira,09/09/1991,31,63,2, Paris Saint-Germain,Ligue 1,France
+POR,portugal (POR),1559,14,MF,William Carvalho,07/04/1992,30,76,5, Real Betis,La Liga,Spain
+POR,portugal (POR),1560,15,FW,Rafael Leão,10/06/1999,23,11,0, Milan,Serie A,Italy
+POR,portugal (POR),1561,16,MF,Vitinha,13/02/2000,22,5,0, Paris Saint-Germain,Ligue 1,France
+POR,portugal (POR),1562,17,MF,João Mário,19/01/1993,29,53,3, Benfica,Primeira Liga,Portugal
+POR,portugal (POR),1563,18,MF,Rúben Neves,13/03/1997,25,32,0, Wolverhampton Wanderers,Premier League,England
+POR,portugal (POR),1564,19,DF,Nuno Mendes,19/06/2002,20,17,0, Paris Saint-Germain,Ligue 1,France
+POR,portugal (POR),1565,20,DF,João Cancelo,27/05/1994,28,37,7, Manchester City,Premier League,England
+POR,portugal (POR),1566,21,FW,Ricardo Horta,15/09/1994,28,6,1, Braga,Primeira Liga,Portugal
+POR,portugal (POR),1567,22,GK,Diogo Costa,19/09/1999,23,7,0, Porto,Primeira Liga,Portugal
+POR,portugal (POR),1568,23,MF,Matheus Nunes,27/08/1998,24,9,1, Wolverhampton Wanderers,Premier League,England
+POR,portugal (POR),1569,24,DF,António Silva,30/10/2003,19,1,0, Benfica,Primeira Liga,Portugal
+POR,portugal (POR),1570,25,MF,Otávio,09/02/1995,27,8,2, Porto,Primeira Liga,Portugal
+POR,portugal (POR),1571,26,FW,Gonçalo Ramos,20/06/2001,21,1,1, Benfica,Primeira Liga,Portugal
+QAT,qatar (QAT),1572,1,GK,Saad Al-Sheeb,19/02/1990,32,76,0, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1573,2,DF,Ró-Ró,06/08/1990,32,80,1, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1574,3,MF,Abdelkarim Hassan,28/08/1993,29,130,15, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1575,4,DF,Mohammed Waad,18/09/1999,23,21,0, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1576,5,DF,Tarek Salman,05/12/1997,24,58,0, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1577,6,MF,Abdulaziz Hatem,01/01/1990,32,107,11, Al-Rayyan,Stars League,Qatar
+QAT,qatar (QAT),1578,7,FW,Ahmed Alaaeldin,31/01/1993,29,47,2, Al-Gharafa,Stars League,Qatar
+QAT,qatar (QAT),1579,8,MF,Ali Assadalla,19/01/1993,29,59,12, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1580,9,FW,Mohammed Muntari,20/12/1993,28,48,13, Al-Duhail,Stars League,Qatar
+QAT,qatar (QAT),1581,10,MF,Hassan Al-Haydos,11/12/1990,31,169,36, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1582,11,FW,Akram Afif,18/11/1996,26,89,26, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1583,12,MF,Karim Boudiaf,16/09/1990,32,115,6, Al-Duhail,Stars League,Qatar
+QAT,qatar (QAT),1584,13,DF,Musab Kheder,01/01/1993,29,30,0, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1585,14,DF,Homam Ahmed,25/08/1999,23,29,2, Al-Gharafa,Stars League,Qatar
+QAT,qatar (QAT),1586,15,DF,Bassam Al-Rawi,16/12/1997,24,58,2, Al-Duhail,Stars League,Qatar
+QAT,qatar (QAT),1587,16,DF,Boualem Khoukhi,09/07/1990,32,105,20, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1588,17,DF,Ismaeel Mohammad,05/04/1990,32,70,4, Al-Duhail,Stars League,Qatar
+QAT,qatar (QAT),1589,18,FW,Khalid Muneer,24/02/1998,24,2,0, Al-Wakrah,Stars League,Qatar
+QAT,qatar (QAT),1590,19,FW,Almoez Ali,19/08/1996,26,85,42, Al-Duhail,Stars League,Qatar
+QAT,qatar (QAT),1591,20,MF,Salem Al-Hajri,10/04/1996,26,22,0, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1592,21,GK,Yousef Hassan,24/05/1996,26,7,0, Al-Gharafa,Stars League,Qatar
+QAT,qatar (QAT),1593,22,GK,Meshaal Barsham,14/02/1998,24,20,0, Al-Sadd,Stars League,Qatar
+QAT,qatar (QAT),1594,23,MF,Assim Madibo,22/10/1996,26,43,0, Al-Duhail,Stars League,Qatar
+QAT,qatar (QAT),1595,24,MF,Naif Al-Hadhrami,18/07/2001,21,1,0, Al-Rayyan,Stars League,Qatar
+QAT,qatar (QAT),1596,25,MF,Jassem Gaber,20/02/2002,20,0,0, Al-Arabi,Stars League,Qatar
+QAT,qatar (QAT),1597,26,MF,Mostafa Meshaal,28/03/2001,21,1,0, Al-Sadd,Stars League,Qatar
+SEN,senegal (SEN),1624,1,GK,Seny Dieng,23/11/1994,27,4,0, Queens Park Rangers,Championship,England
+SEN,senegal (SEN),1625,2,DF,Formose Mendy,02/01/2001,21,2,0, Amiens,Ligue 2,France
+SEN,senegal (SEN),1626,3,DF,Kalidou Koulibaly ,20/06/1991,31,64,0, Chelsea,Premier League,England
+SEN,senegal (SEN),1627,4,DF,Pape Abou Cissé,14/09/1995,27,13,1, Olympiacos,Super League 1,Greece
+SEN,senegal (SEN),1628,5,MF,Idrissa Gueye,26/09/1989,33,96,7, Everton,Premier League,England
+SEN,senegal (SEN),1629,6,MF,Nampalys Mendy,23/06/1992,30,19,0, Leicester City,Premier League,England
+SEN,senegal (SEN),1630,7,FW,Nicolas Jackson,20/06/2001,21,0,0, Villarreal,La Liga,Spain
+SEN,senegal (SEN),1631,8,DF,Cheikhou Kouyaté,21/12/1989,32,83,4, Nottingham Forest,Premier League,England
+SEN,senegal (SEN),1632,9,FW,Boulaye Dia,16/11/1996,26,19,3, Salernitana,Serie A,Italy
+SEN,senegal (SEN),1633,11,MF,Pathé Ciss,16/03/1994,28,1,0, Rayo Vallecano,La Liga,Spain
+SEN,senegal (SEN),1634,12,DF,Fodé Ballo-Touré,03/01/1997,25,14,0, Milan,Serie A,Italy
+SEN,senegal (SEN),1635,13,FW,Iliman Ndiaye,06/03/2000,22,2,0, Sheffield United,Championship,England
+SEN,senegal (SEN),1636,14,DF,Ismail Jakobs,17/08/1999,23,2,0, Monaco,Ligue 1,France
+SEN,senegal (SEN),1637,15,MF,Krépin Diatta,25/02/1999,23,26,2, Monaco,Ligue 1,France
+SEN,senegal (SEN),1638,16,GK,Édouard Mendy,01/03/1992,30,25,0, Chelsea,Premier League,England
+SEN,senegal (SEN),1639,17,MF,Pape Matar Sarr,14/09/2002,20,10,0, Tottenham Hotspur,Premier League,England
+SEN,senegal (SEN),1640,18,FW,Ismaïla Sarr,25/02/1998,24,48,10, Watford,Championship,England
+SEN,senegal (SEN),1641,19,FW,Famara Diédhiou,15/12/1992,29,25,10, Alanyaspor,Super Lig,Turkey
+SEN,senegal (SEN),1642,20,FW,Bamba Dieng,23/03/2000,22,13,1, Marseille,Ligue 1,France
+SEN,senegal (SEN),1643,21,DF,Youssouf Sabaly,05/03/1993,29,24,0, Real Betis,La Liga,Spain
+SEN,senegal (SEN),1644,22,DF,Abdou Diallo,04/05/1996,26,18,2, RB Leipzig,Bundesliga,Germany
+SEN,senegal (SEN),1645,23,GK,Alfred Gomis,05/09/1993,29,14,0, Rennes,Ligue 1,France
+SEN,senegal (SEN),1646,24,DF,Moustapha Name,05/05/1995,27,6,0, Pafos,1. Division - Crypus,Cyprus
+SEN,senegal (SEN),1647,25,MF,Mamadou Loum,30/12/1996,25,3,0, Reading,Championship,England
+SEN,senegal (SEN),1648,26,MF,Pape Gueye,24/01/1999,23,12,0, Marseille,Ligue 1,France
+SRB,serbia (SRB),1649,1,GK,Marko Dmitrović,24/01/1992,30,19,0, Sevilla,La Liga,Spain
+SRB,serbia (SRB),1650,2,DF,Strahinja Pavlović,24/05/2001,21,22,1, Red Bull Salzburg,Bundesliga - Austria,Austria
+SRB,serbia (SRB),1651,3,DF,Strahinja Eraković,22/01/2001,21,2,0, Red Star Belgrade,Super Liga - Serbia,Serbia
+SRB,serbia (SRB),1652,4,DF,Nikola Milenković,12/10/1997,25,39,3, Fiorentina,Serie A,Italy
+SRB,serbia (SRB),1653,5,DF,Miloš Veljković,26/09/1995,27,21,0, Werder Bremen,Bundesliga,Germany
+SRB,serbia (SRB),1654,6,MF,Nemanja Maksimović,26/01/1995,27,40,0, Getafe,La Liga,Spain
+SRB,serbia (SRB),1655,7,FW,Nemanja Radonjić,15/02/1996,26,36,5, Torino,Serie A,Italy
+SRB,serbia (SRB),1656,8,MF,Nemanja Gudelj,16/11/1991,31,49,1, Sevilla,La Liga,Spain
+SRB,serbia (SRB),1657,9,FW,Aleksandar Mitrović,16/09/1994,28,76,50, Fulham,Premier League,England
+SRB,serbia (SRB),1658,10,FW,Dušan Tadić,20/11/1988,34,91,20, Ajax,Eredivisie,Netherlands
+SRB,serbia (SRB),1659,11,FW,Luka Jović,23/12/1997,24,29,10, Fiorentina,Serie A,Italy
+SRB,serbia (SRB),1660,12,GK,Predrag Rajković,31/10/1995,27,28,0, Mallorca,La Liga,Spain
+SRB,serbia (SRB),1661,13,DF,Stefan Mitrović,22/05/1990,32,35,0, Getafe,La Liga,Spain
+SRB,serbia (SRB),1662,14,MF,Andrija Živković,11/07/1996,26,29,1, PAOK,Super League 1,Greece
+SRB,serbia (SRB),1663,15,DF,Srđan Babić,22/04/1996,26,2,0, Almería,La Liga,Spain
+SRB,serbia (SRB),1664,16,MF,Saša Lukić,13/08/1996,26,32,2, Torino,Serie A,Italy
+SRB,serbia (SRB),1665,17,MF,Filip Kostić,01/11/1992,30,50,3, Juventus,Serie A,Italy
+SRB,serbia (SRB),1666,18,FW,Dušan Vlahović,28/01/2000,22,17,9, Juventus,Serie A,Italy
+SRB,serbia (SRB),1667,19,MF,Uroš Račić,17/03/1998,24,9,0, Braga,Primeira Liga,Portugal
+SRB,serbia (SRB),1668,20,MF,Sergej Milinković-Savić,27/02/1995,27,36,6, Lazio,Serie A,Italy
+SRB,serbia (SRB),1669,21,FW,Filip Đuričić,30/01/1992,30,37,5, Sampdoria,Serie A,Italy
+SRB,serbia (SRB),1670,22,MF,Darko Lazović,15/09/1990,32,26,1, Hellas Verona,Serie A,Italy
+SRB,serbia (SRB),1671,23,GK,Vanja Milinković-Savić,20/02/1997,25,7,0, Torino,Serie A,Italy
+SRB,serbia (SRB),1672,24,MF,Ivan Ilić,17/03/2001,21,6,0, Hellas Verona,Serie A,Italy
+SRB,serbia (SRB),1673,25,DF,Filip Mladenović,15/08/1991,31,20,1, Legia Warsaw,Ekstraklasa,Poland
+SRB,serbia (SRB),1674,26,MF,Marko Grujić,13/04/1996,26,18,0, Porto,Primeira Liga,Portugal
+SUI,switzerland (SUI),1701,1,GK,Yann Sommer,17/12/1988,33,77,0, Borussia Mönchengladbach,Bundesliga,Germany
+SUI,switzerland (SUI),1702,2,DF,Edimilson Fernandes,15/04/1996,26,22,2, Mainz 05,Bundesliga,Germany
+SUI,switzerland (SUI),1703,3,DF,Silvan Widmer,05/03/1993,29,34,2, Mainz 05,Bundesliga,Germany
+SUI,switzerland (SUI),1704,4,DF,Nico Elvedi,30/09/1996,26,41,1, Borussia Mönchengladbach,Bundesliga,Germany
+SUI,switzerland (SUI),1705,5,DF,Manuel Akanji,19/07/1995,27,43,1, Manchester City,Premier League,England
+SUI,switzerland (SUI),1706,6,MF,Denis Zakaria,20/11/1996,26,43,3, Chelsea,Premier League,England
+SUI,switzerland (SUI),1707,7,FW,Breel Embolo,14/02/1997,25,59,11, Monaco,Ligue 1,France
+SUI,switzerland (SUI),1708,8,MF,Remo Freuler,15/04/1992,30,49,5, Nottingham Forest,Premier League,England
+SUI,switzerland (SUI),1709,9,FW,Haris Seferovic,22/02/1992,30,89,25, Galatasaray,Super Lig,Turkey
+SUI,switzerland (SUI),1710,10,MF,Granit Xhaka ,27/09/1992,30,107,12, Arsenal,Premier League,England
+SUI,switzerland (SUI),1711,11,DF,Renato Steffen,03/11/1991,31,28,1, Lugano,Super League,Switzerland
+SUI,switzerland (SUI),1712,12,GK,Jonas Omlin,10/01/1994,28,4,0, Montpellier,Ligue 1,France
+SUI,switzerland (SUI),1713,13,DF,Ricardo Rodriguez,25/08/1992,30,100,9, Torino,Serie A,Italy
+SUI,switzerland (SUI),1714,14,MF,Michel Aebischer,06/01/1997,25,12,0, Bologna,Serie A,Italy
+SUI,switzerland (SUI),1715,15,MF,Djibril Sow,06/02/1997,25,32,0, Eintracht Frankfurt,Bundesliga,Germany
+SUI,switzerland (SUI),1716,16,MF,Christian Fassnacht,11/11/1993,29,16,4, Young Boys,Super League,Switzerland
+SUI,switzerland (SUI),1717,17,FW,Ruben Vargas,05/08/1998,24,27,4, FC Augsburg,Bundesliga,Germany
+SUI,switzerland (SUI),1718,18,DF,Eray Cömert,04/02/1998,24,10,0, Valencia,La Liga,Spain
+SUI,switzerland (SUI),1719,19,FW,Noah Okafor,24/05/2000,22,9,2, Red Bull Salzburg,Bundesliga - Austria,Austria
+SUI,switzerland (SUI),1720,20,MF,Fabian Frei,08/01/1989,33,22,3, Basel,Super League,Switzerland
+SUI,switzerland (SUI),1721,21,GK,Gregor Kobel,06/12/1997,24,3,0, Borussia Dortmund,Bundesliga,Germany
+SUI,switzerland (SUI),1722,22,DF,Fabian Schär,20/12/1991,30,73,8, Newcastle United,Premier League,England
+SUI,switzerland (SUI),1723,23,MF,Xherdan Shaqiri,10/10/1991,31,109,26, Chicago Fire FC,MLS,USA
+SUI,switzerland (SUI),1724,24,GK,Philipp Köhn,02/04/1998,24,0,0, Red Bull Salzburg,Bundesliga - Austria,Austria
+SUI,switzerland (SUI),1725,25,MF,Fabian Rieder,16/02/2002,20,0,0, Young Boys,Super League,Switzerland
+SUI,switzerland (SUI),1726,26,MF,Ardon Jashari,30/07/2002,20,1,0, Luzern,Super League,Switzerland
+TUN,tunisia (TUN),1727,1,GK,Aymen Mathlouthi,14/09/1984,38,73,0, Étoile du Sahel,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1728,2,DF,Bilel Ifa,09/03/1990,32,37,0, Kuwait SC,Kuwait Premier League,Kuwait
+TUN,tunisia (TUN),1729,3,DF,Montassar Talbi,26/05/1998,24,23,1, Lorient,Ligue 1,France
+TUN,tunisia (TUN),1730,4,DF,Yassine Meriah,02/07/1993,29,61,3, Espérance de Tunis,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1731,5,MF,Nader Ghandri,18/02/1995,27,8,0, Club Africain,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1732,6,DF,Dylan Bronn,19/06/1995,27,36,2, Salernitana,Serie A,Italy
+TUN,tunisia (TUN),1733,7,FW,Youssef Msakni ,28/10/1990,32,88,17, Al-Arabi,Stars League,Qatar
+TUN,tunisia (TUN),1734,8,MF,Hannibal Mejbri,21/01/2003,19,19,0, Birmingham City,Championship,England
+TUN,tunisia (TUN),1735,9,FW,Issam Jebali,25/12/1991,30,10,2, OB,Superliga,Denmark
+TUN,tunisia (TUN),1736,10,FW,Wahbi Khazri,08/02/1991,31,72,24, Montpellier,Ligue 1,France
+TUN,tunisia (TUN),1737,11,FW,Taha Yassine Khenissi,06/01/1992,30,48,9, Kuwait SC,Kuwait Premier League,Kuwait
+TUN,tunisia (TUN),1738,12,DF,Ali Maâloul,01/01/1990,32,83,2, Al Ahly,Egyptian Premier League,Egypt 
+TUN,tunisia (TUN),1739,13,MF,Ferjani Sassi,18/03/1992,30,78,6, Al-Duhail,Stars League,Qatar
+TUN,tunisia (TUN),1740,14,MF,Aïssa Laïdouni,13/12/1996,25,25,1, Ferencváros,Super Lig,Turkey
+TUN,tunisia (TUN),1741,15,MF,Mohamed Ali Ben Romdhane,06/09/1999,23,23,1, Espérance de Tunis,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1742,16,GK,Aymen Dahmen,28/01/1997,25,5,0, CS Sfaxien,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1743,17,MF,Ellyes Skhiri,10/05/1995,27,49,3, 1. FC Köln,Bundesliga,Germany
+TUN,tunisia (TUN),1744,18,MF,Ghailene Chaalali,28/02/1994,28,31,1, Espérance de Tunis,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1745,19,FW,Seifeddine Jaziri,12/02/1993,29,29,10, Zamalek,Egyptian Premier League,Egypt 
+TUN,tunisia (TUN),1746,20,DF,Mohamed Dräger,25/06/1996,26,34,3, Luzern,Super League,Switzerland
+TUN,tunisia (TUN),1747,21,DF,Wajdi Kechrida,05/11/1995,27,19,0, Atromitos,Super League 1,Greece
+TUN,tunisia (TUN),1748,22,GK,Bechir Ben Saïd,29/11/1992,29,10,0, US Monastir,Ligue 1 - Tunisia,Tunisia
+TUN,tunisia (TUN),1749,23,FW,Naïm Sliti,27/07/1992,30,69,14, Al-Ettifaq,Saudi Division 1,Saudi Arabia
+TUN,tunisia (TUN),1750,24,DF,Ali Abdi,20/12/1993,28,10,2, Caen,Ligue 2,France
+TUN,tunisia (TUN),1751,25,FW,Anis Ben Slimane,16/03/2001,21,25,4, Brøndby,Superliga,Denmark
+TUN,tunisia (TUN),1752,26,GK,Mouez Hassen,05/03/1995,27,20,0, Club Africain,Ligue 1 - Tunisia,Tunisia
+URU,uruguay (URU),1753,1,GK,Fernando Muslera,16/06/1986,36,133,0, Galatasaray,Super Lig,Turkey
+URU,uruguay (URU),1754,2,DF,José Giménez,20/01/1995,27,78,8, Atlético Madrid,La Liga,Spain
+URU,uruguay (URU),1755,3,DF,Diego Godín ,16/02/1986,36,159,8, Vélez Sarsfield,Liga Professional Argentina,Argentina
+URU,uruguay (URU),1756,4,DF,Ronald Araújo,07/03/1999,23,12,0, Barcelona,La Liga,Spain
+URU,uruguay (URU),1757,5,MF,Matías Vecino,24/08/1991,31,62,4, Lazio,Serie A,Italy
+URU,uruguay (URU),1758,6,MF,Rodrigo Bentancur,25/06/1997,25,51,1, Tottenham Hotspur,Premier League,England
+URU,uruguay (URU),1759,7,MF,Nicolás de la Cruz,01/06/1997,25,17,2, River Plate,Liga Professional Argentina,Argentina
+URU,uruguay (URU),1760,8,FW,Facundo Pellistri,20/12/2001,20,7,0, Manchester United,Premier League,England
+URU,uruguay (URU),1761,9,FW,Luis Suárez,24/01/1987,35,134,68, Nacional,Primera Division - Uruguay,Uruguay
+URU,uruguay (URU),1762,10,MF,Giorgian de Arrascaeta,01/06/1994,28,40,8, Flamengo,Brasilian Serie A,Brasil
+URU,uruguay (URU),1763,11,FW,Darwin Núñez,24/06/1999,23,13,3, Liverpool,Premier League,England
+URU,uruguay (URU),1764,12,GK,Sebastián Sosa,19/08/1986,36,1,0, Independiente,Liga Professional Argentina,Argentina
+URU,uruguay (URU),1765,13,DF,Guillermo Varela,24/03/1993,29,9,0, Flamengo,Brasilian Serie A,Brasil
+URU,uruguay (URU),1766,14,MF,Lucas Torreira,11/02/1996,26,40,0, Galatasaray,Super Lig,Turkey
+URU,uruguay (URU),1767,15,MF,Federico Valverde,22/07/1998,24,44,4, Real Madrid,La Liga,Spain
+URU,uruguay (URU),1768,16,DF,Mathías Olivera,31/10/1997,25,8,0, Napoli,Serie A,Italy
+URU,uruguay (URU),1769,17,DF,Matías Viña,09/11/1997,25,26,0, Roma,Serie A,Italy
+URU,uruguay (URU),1770,18,FW,Maxi Gómez,14/08/1996,26,27,4, Trabzonspor,Super Lig,Turkey
+URU,uruguay (URU),1771,19,DF,Sebastián Coates,07/10/1990,32,47,1, Sporting CP,Primeira Liga,Portugal
+URU,uruguay (URU),1772,20,FW,Facundo Torres,13/04/2000,22,10,0, Orlando City SC,MLS,USA
+URU,uruguay (URU),1773,21,FW,Edinson Cavani,14/02/1987,35,133,58, Valencia,La Liga,Spain
+URU,uruguay (URU),1774,22,DF,Martín Cáceres,07/04/1987,35,115,4, LA Galaxy,MLS,USA
+URU,uruguay (URU),1775,23,GK,Sergio Rochet,23/03/1993,29,8,0, Nacional,Primera Division - Uruguay,Uruguay
+URU,uruguay (URU),1776,24,MF,Agustín Canobbio,01/10/1998,24,3,0, Athletico Paranaense,Brasilian Serie A,Brasil
+URU,uruguay (URU),1777,25,MF,Manuel Ugarte,11/04/2001,21,6,0, Sporting CP,Primeira Liga,Portugal
+URU,uruguay (URU),1778,26,DF,José Luis Rodríguez,14/03/1997,25,0,0, Nacional,Primera Division - Uruguay,Uruguay
+USA,USA (USA),1779,1,GK,Matt Turner,24/06/1994,28,20,0, Arsenal,Premier League,England
+USA,USA (USA),1780,2,DF,Sergiño Dest,03/11/2000,22,19,2, Milan,Serie A,Italy
+USA,USA (USA),1781,3,DF,Walker Zimmerman,19/05/1993,29,33,3, Nashville SC,MLS,USA
+USA,USA (USA),1782,4,MF,Tyler Adams,14/02/1999,23,32,1, Leeds United,Premier League,England
+USA,USA (USA),1783,5,DF,Antonee Robinson,08/08/1997,25,29,2, Fulham,Premier League,England
+USA,USA (USA),1784,6,MF,Yunus Musah,29/11/2002,19,19,0, Valencia,La Liga,Spain
+USA,USA (USA),1785,7,FW,Giovanni Reyna,13/11/2002,20,14,4, Borussia Dortmund,Bundesliga,Germany
+USA,USA (USA),1786,8,MF,Weston McKennie,28/08/1998,24,37,9, Juventus,Serie A,Italy
+USA,USA (USA),1787,9,FW,Jesús Ferreira,24/12/2000,21,15,7, FC Dallas,MLS,USA
+USA,USA (USA),1788,10,FW,Christian Pulisic,18/09/1998,24,52,21, Chelsea,Premier League,England
+USA,USA (USA),1789,11,FW,Brenden Aaronson,22/10/2000,22,24,6, Leeds United,Premier League,England
+USA,USA (USA),1790,12,GK,Ethan Horvath,09/06/1995,27,8,0, Luton Town,Championship,England
+USA,USA (USA),1791,13,DF,Tim Ream,05/10/1987,35,46,1, Fulham,Premier League,England
+USA,USA (USA),1792,14,MF,Luca de la Torre,23/05/1998,24,12,0, Celta Vigo,La Liga,Spain
+USA,USA (USA),1793,15,DF,Aaron Long,12/10/1992,30,29,3, New York Red Bulls,MLS,USA
+USA,USA (USA),1794,16,FW,Jordan Morris,26/10/1994,28,49,11, Seattle Sounders FC,MLS,USA
+USA,USA (USA),1795,17,MF,Cristian Roldan,03/06/1995,27,32,0, Seattle Sounders FC,MLS,USA
+USA,USA (USA),1796,18,DF,Shaq Moore,02/11/1996,26,15,1, Nashville SC,MLS,USA
+USA,USA (USA),1797,19,FW,Haji Wright,27/03/1998,24,3,1, Antalyaspor,Super Lig,Turkey
+USA,USA (USA),1798,20,DF,Cameron Carter-Vickers,31/12/1997,24,11,0, Celtic,Premiership,Scotland
+USA,USA (USA),1799,21,FW,Timothy Weah,22/02/2000,22,25,3, Lille,Ligue 1,France
+USA,USA (USA),1800,22,DF,DeAndre Yedlin,09/07/1993,29,75,0, Inter Miami CF,MLS,USA
+USA,USA (USA),1801,23,MF,Kellyn Acosta,24/07/1995,27,53,2, Los Angeles FC,MLS,USA
+USA,USA (USA),1802,24,FW,Josh Sargent,20/02/2000,22,20,5, Norwich City,Championship,England
+USA,USA (USA),1803,25,GK,Sean Johnson,31/05/1989,33,10,0, New York City FC,MLS,USA
+USA,USA (USA),1804,26,DF,Joe Scally,31/12/2002,19,3,0, Borussia Mönchengladbach,Bundesliga,Germany
+WAL,wales (WAL),1805,1,GK,Wayne Hennessey,24/01/1987,35,106,0, Nottingham Forest,Premier League,England
+WAL,wales (WAL),1806,2,DF,Chris Gunter,21/07/1989,33,109,0, AFC Wimbledon,League Two,England
+WAL,wales (WAL),1807,3,DF,Neco Williams,13/04/2001,21,23,2, Nottingham Forest,Premier League,England
+WAL,wales (WAL),1808,4,DF,Ben Davies,24/04/1993,29,74,1, Tottenham Hotspur,Premier League,England
+WAL,wales (WAL),1809,5,DF,Chris Mepham,05/11/1997,25,33,0, Bournemouth,Premier League,England
+WAL,wales (WAL),1810,6,DF,Joe Rodon,22/10/1997,25,30,0, Rennes,Ligue 1,France
+WAL,wales (WAL),1811,7,MF,Joe Allen,14/03/1990,32,72,2, Swansea City,Championship,England
+WAL,wales (WAL),1812,8,MF,Harry Wilson,22/03/1997,25,39,5, Fulham,Premier League,England
+WAL,wales (WAL),1813,9,FW,Brennan Johnson,23/05/2001,21,15,2, Nottingham Forest,Premier League,England
+WAL,wales (WAL),1814,10,MF,Aaron Ramsey,26/12/1990,31,75,20, Nice,Ligue 1,France
+WAL,wales (WAL),1815,11,FW,Gareth Bale ,16/07/1989,33,108,40, Los Angeles FC,MLS,USA
+WAL,wales (WAL),1816,12,GK,Danny Ward,22/06/1993,29,26,0, Leicester City,Premier League,England
+WAL,wales (WAL),1817,13,FW,Kieffer Moore,08/08/1992,30,28,9, Bournemouth,Premier League,England
+WAL,wales (WAL),1818,14,DF,Connor Roberts,23/09/1995,27,41,3, Burnley,Championship,England
+WAL,wales (WAL),1819,15,DF,Ethan Ampadu,14/09/2000,22,37,0, Spezia,Serie A,Italy
+WAL,wales (WAL),1820,16,MF,Joe Morrell,03/01/1997,25,30,0, Portsmouth,League One,England
+WAL,wales (WAL),1821,17,DF,Tom Lockyer,03/12/1994,27,14,0, Luton Town,Championship,England
+WAL,wales (WAL),1822,18,MF,Jonny Williams,09/10/1993,29,33,2, Swindon Town,League Two,England
+WAL,wales (WAL),1823,19,FW,Mark Harris,29/12/1998,23,5,0, Cardiff City,Championship,England
+WAL,wales (WAL),1824,20,FW,Daniel James,10/11/1997,25,38,5, Fulham,Premier League,England
+WAL,wales (WAL),1825,21,GK,Adam Davies,17/07/1992,30,4,0, Sheffield United,Championship,England
+WAL,wales (WAL),1826,22,MF,Sorba Thomas,25/01/1999,23,6,0, Huddersfield Town,Championship,England
+WAL,wales (WAL),1827,23,MF,Dylan Levitt,17/11/2000,22,13,0, Dundee United,Premiership,Scotland
+WAL,wales (WAL),1828,24,DF,Ben Cabango,30/05/2000,22,5,0, Swansea City,Championship,England
+WAL,wales (WAL),1829,25,MF,Rubin Colwill,27/04/2002,20,7,1, Cardiff City,Championship,England
+WAL,wales (WAL),1830,26,MF,Matthew Smith,22/11/1999,22,19,0, Milton Keynes Dons,League One,England
