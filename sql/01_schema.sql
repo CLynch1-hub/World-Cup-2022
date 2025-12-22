@@ -1,5 +1,5 @@
 ------------------------------------------------------------
--- World_Cup_2022 – Full Database Schema & Data Load Script
+-- World_Cup_2022 â€“ Full Database Schema & Data Load Script
 ------------------------------------------------------------
 
 -- 1. Create database
