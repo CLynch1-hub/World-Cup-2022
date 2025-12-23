@@ -1,19 +1,34 @@
-# World-Cup-2022
-A Data analysis of the 2022 World Cup using SQL Server, Python and Excel
+# World Cup 2022 — Player & Club Analysis
+A full data analysis project exploring the FIFA World Cup 2022 squads using SQL Server, Python, and Excel.
+This project demonstrates a complete end‑to‑end data pipeline: sourcing, cleaning, transforming, analysing, and visualising real‑world football data.
 
-World Cup 2022 — Player & Club Analysis
-A full data analysis project exploring the FIFA World Cup 2022 squads using Python, Excel, and SQL Server. This project demonstrates a complete data pipeline: sourcing, cleaning, transforming, analysing, and visualising real world football data.
-The analysis focuses on:
-•	Player experience (caps)
-•	Player age distribution
-•	Goals per game
-•	Club and league representation
-•	Comparison of all players vs the last four teams
-•	Insights into which clubs and leagues were most affected by the tournament
+# Project Focus
+The analysis explores:
+
+Player experience (caps)
+
+Age distribution
+
+Goals per game
+
+Club and league representation
+
+Comparison of all players vs the last four teams
+
+Insights into which clubs and leagues were most affected by the tournament
+
+data/       → Raw datasets (CSV)
+docs/       → Data dictionary, normalisation, Excel model
+python/     → Jupyter notebook analysis
+report/     → Final PDF report & presentation
+sql/        → Schema, inserts, and analysis queries
+README.md   → Project documentation
+
 
 
 
 Dataset Overview
+
 Squads.csv
 Contains all 830 players selected for the 2022 World Cup, including:
 •	National team
@@ -26,6 +41,7 @@ Contains all 830 players selected for the 2022 World Cup, including:
 •	Current club
 •	Club league
 •	Football association
+
 Outcome.csv
 Contains the final tournament outcome for each national team:
 •	Winner
@@ -41,12 +57,12 @@ Technologies Used
 o	Pandas
 o	NumPy
 o	Matplotlib
-o	Seaborn
-o	SciPy
+
 •	Excel
 o	Data Model
 o	Pivot tables
 o	Cleaning & transformation
+
 •	SQL Server
 o	Table design
 o	Keys & relationships
@@ -89,6 +105,7 @@ Visualisations include:
 •	Scatterplot of age vs caps
 •	Distribution curve of caps
 •	Boxplot of caps by experience
+
 2. Age Distribution
 Players were grouped into age brackets:
 •	Under 18
@@ -103,6 +120,7 @@ Visualisations include:
 •	Age range bar chart
 •	Age distribution curve
 •	Oldest player identification
+
 3. Goals Per Game
 A performance metric was created:
 Goals_Per_Game = Goals / Caps
@@ -111,6 +129,7 @@ Output includes:
 •	Top 10 players by goals per game
 •	Their national teams
 •	Their clubs
+
 4. Last Four Teams Comparison
 Merged Outcome.csv with the main dataset to analyse:
 •	Winner
@@ -123,6 +142,7 @@ Comparison metrics:
 •	Mean age
 •	Median age
 This highlights differences between the full player pool (830 players) and the elite final four (104 players).
+
 5. Club & League Impact
 Grouped by:
 •	Current club
