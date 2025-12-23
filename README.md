@@ -1,3 +1,12 @@
+📁 **Quick Links**
+
+- [SQL Scripts](sql/)
+- [Python Notebook](python/world_cup_analysis.ipynb)
+- [Data Files](data/)
+- [Documentation](docs/)
+- [Reports](report/)
+
+
 # World Cup 2022 — Player & Club Analysis
 A full data analysis project exploring the FIFA World Cup 2022 squads using SQL Server, Python, and Excel.
 This project demonstrates a complete end‑to‑end data pipeline: sourcing, cleaning, transforming, analysing, and visualising real‑world football data.
