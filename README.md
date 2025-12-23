@@ -1,3 +1,6 @@
+# 🌍 World Cup 2022 — Player & Club Analysis
+
+
 📁 **Quick Links**
 
 - [SQL Scripts](sql/)
