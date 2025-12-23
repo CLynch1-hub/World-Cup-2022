@@ -11,21 +11,7 @@ The analysis focuses on:
 •	Comparison of all players vs the last four teams
 •	Insights into which clubs and leagues were most affected by the tournament
 
-📁 Project Structure
-world-cup-2022-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   ├── Squads.csv
-│   │   └── Outcome.csv
-│
-├── python/
-│   ├── world_cup_analysis.ipynb
-│
-├── report/
-│   └── CA2 Data Report & Dataset.pdf
 
-└── README.md
 
 Dataset Overview
 Squads.csv
@@ -49,7 +35,8 @@ Contains the final tournament outcome for each national team:
 •	Quarter Finals
 •	Last 16
 •	Group Stages
-🔧 Technologies Used
+
+Technologies Used
 •	Python
 o	Pandas
 o	NumPy
@@ -64,7 +51,8 @@ o	Cleaning & transformation
 o	Table design
 o	Keys & relationships
 o	Data validation
-🧹 Data Cleaning Summary
+
+Data Cleaning Summary
 Excel Cleaning
 •	Removed images and formatting from Wikipedia tables
 •	Created structured tables for:
@@ -144,7 +132,8 @@ Outputs include:
 •	Top 20 clubs with the most World Cup players
 •	Top 20 leagues
 •	Mean, median, and standard deviation of club representation
-🏁 Conclusion
+
+Conclusion
 This project provides a full analytical breakdown of the World Cup 2022 squads, combining:
 •	Data engineering
 •	Statistical analysis
